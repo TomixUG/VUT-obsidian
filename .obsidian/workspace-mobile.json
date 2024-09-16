@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "c67abd4659cd071e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b77a7ed4f5f07fe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b63d6c8f059982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ILG/practise/První cvičení.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b0196a6abcf506f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ILG/attachments/PrvniSada.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fbb3ba2c9ce504e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b2fb241b7b77ec61",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8baf7075bccbffda",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c0f12ceee097b880",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d5ead8cd7639ea53",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "72d94bc3043a33bf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b28c49f270b445bd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ILG/attachments/PrvniSada.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8186878870820062",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "ILG/attachments/PrvniSada.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c04a3e360d7e6354",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "ILG/attachments/PrvniSada.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b0196a6abcf506f",
+  "lastOpenFiles": [
+    "ILG/practise/První cvičení.md",
+    "ILG/attachments/PrvniSada.pdf",
+    "ILG/ILG.md",
+    "Index.md",
+    "PrvniSada.pdf.md",
+    "IZP/IZP.md",
+    "IZP/Info.md",
+    "IZP/lectures/1 - Vývojové nástroje.md",
+    "IEL/IEL.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+    "IUS/IUS.md",
+    "ILG/Cvika - poznámky.md",
+    "IEL/lectures",
+    "ILG/attachments",
+    "ILG/practise",
+    "ILG/Info.md",
+    "IUS/info.md",
+    "IUS/attachments/IUS01.pdf",
+    "IUS/attachments",
+    "IUS/lectures",
+    "IZP/lectures",
+    "000 Index.md",
+    "IMG_20240916_081935.jpg",
+    "IUS/Info.md",
+    "IEL/Info.md",
+    "IUS/1..md",
+    "IZP/1 - Vývojové nástroje.md",
+    "Pasted image 20240916184219.png",
+    "Pasted image 20240916182906.png",
+    "Pasted image 20240916182450.png",
+    "Pasted image 20240916181422.png",
+    "Pasted image 20240916174059.png",
+    "IUS/IUS01.pdf",
+    "IEL/1..md",
+    "Pasted image 20240916172511.png",
+    "Pasted image 20240916163404.png",
+    "IZP/1 - vývojové nástroje.md",
+    "Pasted image 20240916143240.png",
+    "Pasted image 20240916142358.png"
+  ]
+}
