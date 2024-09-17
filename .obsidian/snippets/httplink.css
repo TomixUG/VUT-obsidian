@@ -1,0 +1,5 @@
+:root, body, .view-content {
+    --link-color: #6dc9fb;
+    --link-color-hover: #d9ae2c;
+    /* text-decoration: underline; */
+  }

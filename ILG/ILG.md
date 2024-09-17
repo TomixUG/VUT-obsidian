@@ -1,4 +1,6 @@
 Links: [[Index]]
+
+Hliněná: https://www.umat.fekt.vut.cz/~hlinena/vyuka-ILG.html
 ### Info
 - [[ILG/Info|Info]]
 ## Přednášky
@@ -7,4 +9,4 @@ Links: [[Index]]
 
 ## Cvičení
 Úlohy: https://www.umat.fekt.vut.cz/~hlinena/ILG/SadyUloh/
-- [[První cvičení]] 
+- [[ILG/practise/První cvičení]] 

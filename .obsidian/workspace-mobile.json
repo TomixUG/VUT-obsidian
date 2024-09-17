@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ILG/practise/První cvičení.md",
-                "mode": "preview",
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "754edad244eac87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDM/Info.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ILG/attachments/PrvniSada.pdf",
+            "file": "IDM/Info.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ILG/attachments/PrvniSada.pdf",
+            "file": "IDM/Info.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ILG/attachments/PrvniSada.pdf"
+            "file": "IDM/Info.md"
           }
         }
       }
@@ -142,18 +154,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b0196a6abcf506f",
+  "active": "754edad244eac87f",
   "lastOpenFiles": [
+    "IDM/lectures/1. - množiny.md",
+    "IDM/lectures/Untitled.md",
+    "IDM/lectures",
+    "IDM/IDM.md",
+    "Index.md",
+    "IEL/IEL.md",
+    "IEL/Info.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IDM/practice/První cvičení - IDM.md",
+    "IDM/practice/attachments/Druha_Sada.pdf",
+    "IDM/practice/attachments/Prva_Sada.pdf",
+    "IDM/Info.md",
+    "IDM/practice/attachments",
+    "IZP/IZP.md",
+    "IDM/practice",
+    "IDM",
+    "ILG/ILG.md",
     "ILG/practise/První cvičení.md",
     "ILG/attachments/PrvniSada.pdf",
-    "ILG/ILG.md",
-    "Index.md",
     "PrvniSada.pdf.md",
-    "IZP/IZP.md",
     "IZP/Info.md",
     "IZP/lectures/1 - Vývojové nástroje.md",
-    "IEL/IEL.md",
-    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
     "IUS/IUS.md",
     "ILG/Cvika - poznámky.md",
@@ -162,14 +186,9 @@
     "ILG/practise",
     "ILG/Info.md",
     "IUS/info.md",
-    "IUS/attachments/IUS01.pdf",
-    "IUS/attachments",
-    "IUS/lectures",
-    "IZP/lectures",
     "000 Index.md",
     "IMG_20240916_081935.jpg",
     "IUS/Info.md",
-    "IEL/Info.md",
     "IUS/1..md",
     "IZP/1 - Vývojové nástroje.md",
     "Pasted image 20240916184219.png",
@@ -177,7 +196,6 @@
     "Pasted image 20240916182450.png",
     "Pasted image 20240916181422.png",
     "Pasted image 20240916174059.png",
-    "IUS/IUS01.pdf",
     "IEL/1..md",
     "Pasted image 20240916172511.png",
     "Pasted image 20240916163404.png",
