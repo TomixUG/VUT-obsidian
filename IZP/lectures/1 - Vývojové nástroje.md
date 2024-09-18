@@ -48,5 +48,39 @@ IDE
 - Eclipse, Visual Studio, Xcode
 - preconfigured, umí vše
 
+# Verzování
+- Je třeba uchovávat vývoj projektu:
+	- Záloha - když se cokoliv pokazí můžeme obnovit
+	- Porovnání změn - když se něco nového pokazí, lehce zjistit, proč 
+	- Různé varianty - nově implementované vlastnosti
+- Nejjednodušší je kopie souborů projektu
+	- Příklad: projekt/*, projekt-2024-01-03/*
+	- Nekopírovat jednotlivé soubory, ale vše
+	- Výhody:
+		- rychle provedeno, obnoveno
+	- Nevýhody:
+		- nepřehlednost, úprava ve starém projektu způsobí zmatek, nekolaborativní
+#### Verzovací systémy
+- Verzovací systém ví o různých verzí projektu
+	- Lokální: v adresáři projektu jsou v podadresáři uloženy různé verze souborů
+	- Příklad: RCS (obsolete)
+	- ![[Pasted image 20240918161329.png]]
+- Centralizovaná správa verzí
+	- **Verze jsou ukládány vzdáleně na verzovacím serveru**
+	- Sloučení souborů, konflikty
+	- Příklad: CSV, Subversion (SVN)
+	- ![[Pasted image 20240918161524.png]]
+- Distribuovaná správa verzí
+	- Upravíme si **lokálně**, lokálně vytvoříme novou verzi
+		- Před push o tom ostatní neví
+	- Každý počítač má uložen klon celé verze, dělá si lokální
+	- Všichni znají historii všech (větvení - branches)
+	- Příklad: Git, Mercurial
+	- ![[Pasted image 20240918162041.png]]
+	- git pull - natáhnout aktuální budoucnost
+		- při tom sloučí lokální s budoucností
+	
+	
+
 
 

@@ -3,3 +3,8 @@
     --link-color-hover: #d9ae2c;
     /* text-decoration: underline; */
   }
+
+mjx-math {
+  font-size: 130% !important;
+}
+

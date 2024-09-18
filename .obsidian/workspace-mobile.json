@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/Info.md",
+                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IDM/Info.md",
+            "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IDM/Info.md",
+            "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IDM/Info.md"
+            "file": "IDM/lectures/1. - Výrokový a predikátový počet.md"
           }
         }
       }
@@ -156,18 +156,20 @@
   },
   "active": "754edad244eac87f",
   "lastOpenFiles": [
+    "IDM/lectures/attachments/Pasted image 20240917221221.png",
+    "IDM/IDM.md",
+    "Index.md",
+    "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "IDM/Info.md",
     "IDM/lectures/1. - množiny.md",
     "IDM/lectures/Untitled.md",
     "IDM/lectures",
-    "IDM/IDM.md",
-    "Index.md",
     "IEL/IEL.md",
     "IEL/Info.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "IDM/practice/První cvičení - IDM.md",
     "IDM/practice/attachments/Druha_Sada.pdf",
     "IDM/practice/attachments/Prva_Sada.pdf",
-    "IDM/Info.md",
     "IDM/practice/attachments",
     "IZP/IZP.md",
     "IDM/practice",
@@ -196,10 +198,8 @@
     "Pasted image 20240916182450.png",
     "Pasted image 20240916181422.png",
     "Pasted image 20240916174059.png",
-    "IEL/1..md",
     "Pasted image 20240916172511.png",
     "Pasted image 20240916163404.png",
-    "IZP/1 - vývojové nástroje.md",
     "Pasted image 20240916143240.png",
     "Pasted image 20240916142358.png"
   ]

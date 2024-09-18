@@ -8,44 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8aed16ab4eec59e4",
+            "id": "2a1572799040c954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/IDM.md",
+                "file": "IZP/lectures/1 - Vývojové nástroje.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2fd237f1235a88ea",
+            "id": "1f353708cfd66650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/IDM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ecbbd8e17b1c701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDM/IDM.md",
+                "file": "IZP/lectures/1 - Vývojové nástroje.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ee5af1b6e536e4af",
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDM/IDM.md",
+                "file": "IZP/lectures/1 - Vývojové nástroje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDM/IDM.md",
+                "file": "IZP/lectures/1 - Vývojové nástroje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDM/IDM.md"
+                "file": "IZP/lectures/1 - Vývojové nástroje.md"
               }
             }
           }
@@ -172,18 +160,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ecbbd8e17b1c701",
+  "active": "1f353708cfd66650",
   "lastOpenFiles": [
-    "Index.md",
+    "IZP/lectures/attachments/Pasted image 20240918162041.png",
+    "IZP/lectures/attachments/Pasted image 20240918161524.png",
+    "IZP/lectures/attachments/Pasted image 20240918161329.png",
+    "IZP/lectures/attachments",
     "IZP/IZP.md",
+    "IZP/lectures/1 - Vývojové nástroje.md",
+    "Index.md",
+    "ILG/ILG.md",
+    "ILG/lectures/1. soustava rovnic.md",
+    "IEL/Info.md",
+    "IEL/IEL.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "IDM/IDM.md",
+    "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "ILG/lectures/attachments/Pasted image 20240918135655.png",
+    "ILG/lectures/attachments/Pasted image 20240918134150.png",
+    "ILG/lectures/attachments/Pasted image 20240918133819.png",
+    "ILG/lectures/attachments/Pasted image 20240918132924.png",
+    "ILG/lectures/attachments/Pasted image 20240918132736.png",
+    "ILG/lectures/attachments/Pasted image 20240918131727.png",
+    "ILG/lectures/attachments/Pasted image 20240918131214.png",
+    "ILG/lectures/attachments/Pasted image 20240918131130.png",
+    "ILG/lectures/attachments",
+    "ILG/Info.md",
+    "ILG/lectures",
+    "Untitled.canvas",
     "IDM/Info.md",
     "IDM/practice/První cvičení - IDM.md",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "ILG/ILG.md",
-    "ILG/Info.md",
-    "IDM/lectures/attachments/Pasted image 20240917130643.png",
-    "IDM/lectures/attachments/Pasted image 20240917125449.png",
     "IDM/lectures/attachments",
     "IDM/lectures",
     "IUS/IUS.md",
@@ -192,26 +198,13 @@
     "IDM/practice/attachments",
     "IDM/practice",
     "IDM",
-    "IUS/IUS01.pdf",
     "IUS/1..md",
-    "Pasted image 20240916172511.png",
     "IUS/Info.md",
-    "Pasted image 20240916163404.png",
     "IZP/Info.md",
-    "Pasted image 20240916103819.png",
     "IZP/1 - Vývojové nástroje.md",
-    "IEL/Info.md",
-    "Pasted image 20240916143240.png",
-    "Pasted image 20240916142358.png",
-    "Untitled.canvas",
     "ILG/Cvika - poznámky.md",
     "IEL/1..md",
-    "Pasted image 20240916115115.png",
-    "Pasted image 20240916114857.png",
-    "Pasted image 20240916113224.png",
     "Untitled.md",
-    "IUS",
-    "IZP",
     "Welcome.md",
     "create a link.md"
   ]

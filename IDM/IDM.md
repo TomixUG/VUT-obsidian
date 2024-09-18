@@ -6,10 +6,10 @@ Hliněná: https://www.umat.fekt.vut.cz/~hlinena/vyuka-IDM.html
 - [[IDM/Info|Info]]
 
 ## Přednášky
-https://www.umat.fekt.vut.cz/~hlinena/IDM/Prednasky/
+[Materiály](https://www.umat.fekt.vut.cz/~hlinena/IDM/Prednasky/)
 - [[1. - Výrokový a predikátový počet]]
 ## Semináře
 
 ## Cvičení
-https://www.umat.fekt.vut.cz/~hlinena/IDM/SadyUloh/
+[Materiály](https://www.umat.fekt.vut.cz/~hlinena/IDM/SadyUloh/)
 1. [[První cvičení - IDM]]
