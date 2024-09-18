@@ -68,6 +68,8 @@ IDE
 - Centralizovaná správa verzí
 	- **Verze jsou ukládány vzdáleně na verzovacím serveru**
 	- Sloučení souborů, konflikty
+		- Těžko se řeší konflikty
+			- Když někdo pushne dříve, ale někdo mezitím něco udělal mohou nastat problémy
 	- Příklad: CSV, Subversion (SVN)
 	- ![[Pasted image 20240918161524.png]]
 - Distribuovaná správa verzí
@@ -79,8 +81,24 @@ IDE
 	- ![[Pasted image 20240918162041.png]]
 	- git pull - natáhnout aktuální budoucnost
 		- při tom sloučí lokální s budoucností
-	
-	
+##### Patch 
+- Rozdílové soubory (patch file)
+- Slouží k poslání a záznamu rozdílu dvou verzí
+- Součást souboru patch
+	- Přidané a smazané řádky
+	- Sada rozdílu, které se mají udělat
+- Patch = stará_verze - nová_verze
+- Jeden patch soubor může zaznamenávat úpravu jednoho nebo více souborů
+- Používá se k
+	- Návrhu změn, oprav chyb
+	- jde vidět, co se změnilo
+- CLI
+	- ![[Pasted image 20240918163032.png]]
 
+#### Git
+- ![[Pasted image 20240918163327.png]]
+  ![[Pasted image 20240918163620.png]]
+- commit vytvoří novou verzi, zaarchivuje, udělá hash, ...
+	- pořád jenom lokální
 
 
