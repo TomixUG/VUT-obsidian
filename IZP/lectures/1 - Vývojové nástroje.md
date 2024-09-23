@@ -101,4 +101,7 @@ IDE
 - commit vytvoří novou verzi, zaarchivuje, udělá hash, ...
 	- pořád jenom lokální
 
+### C
+- cc vybere jakýkoliv C compiler
+
 

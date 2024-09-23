@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "754edad244eac87f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4b0196a6abcf506f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ILG/attachments/PrvniSada.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,53 +131,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "754edad244eac87f",
+  "active": "72b63d6c8f059982",
   "lastOpenFiles": [
-    "IDM/lectures/attachments/Pasted image 20240917221221.png",
+    "IUS/lectures/attachments/Pasted image 20240923184331.png",
+    "IUS/lectures/attachments/Pasted image 20240923184253.png",
+    "IUS/lectures/attachments/Pasted image 20240923184156.png",
+    "IUS/lectures/attachments/Pasted image 20240923184022.png",
+    "IUS/lectures/attachments/Pasted image 20240923183928.png",
+    "IUS/lectures/attachments/Pasted image 20240923183937.png",
+    "IUS/lectures/attachments/Pasted image 20240923183314.png",
+    "IUS/lectures/attachments/Pasted image 20240923183215.png",
+    "IUS/lectures/attachments/Pasted image 20240923182825.png",
+    "IUS/lectures/attachments/Pasted image 20240923182730.png",
+    "IUS/lectures/attachments/Pasted image 20240923182712.png",
     "IDM/IDM.md",
     "Index.md",
+    "IUS/IUS.md",
+    "IUS/lectures/2.  Modely jazyka UML.md",
+    "IUS/info.md",
+    "ILG/attachments/PrvniSada.pdf",
+    "ILG/practise/První cvičení.md",
+    "ILG/ILG.md",
+    "ILG/lectures/1. soustava rovnic a matice.md",
+    "IEL/IEL.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "ILG/lectures/1. soustava rovnic.md",
     "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "IZP/IZP.md",
     "IDM/Info.md",
     "IDM/lectures/1. - množiny.md",
     "IDM/lectures/Untitled.md",
     "IDM/lectures",
-    "IEL/IEL.md",
     "IEL/Info.md",
-    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "IDM/practice/První cvičení - IDM.md",
     "IDM/practice/attachments/Druha_Sada.pdf",
     "IDM/practice/attachments/Prva_Sada.pdf",
     "IDM/practice/attachments",
-    "IZP/IZP.md",
     "IDM/practice",
     "IDM",
-    "ILG/ILG.md",
-    "ILG/practise/První cvičení.md",
-    "ILG/attachments/PrvniSada.pdf",
     "PrvniSada.pdf.md",
     "IZP/Info.md",
     "IZP/lectures/1 - Vývojové nástroje.md",
     "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
-    "IUS/IUS.md",
     "ILG/Cvika - poznámky.md",
     "IEL/lectures",
     "ILG/attachments",
     "ILG/practise",
     "ILG/Info.md",
-    "IUS/info.md",
-    "000 Index.md",
-    "IMG_20240916_081935.jpg",
-    "IUS/Info.md",
-    "IUS/1..md",
-    "IZP/1 - Vývojové nástroje.md",
-    "Pasted image 20240916184219.png",
-    "Pasted image 20240916182906.png",
-    "Pasted image 20240916182450.png",
-    "Pasted image 20240916181422.png",
-    "Pasted image 20240916174059.png",
-    "Pasted image 20240916172511.png",
-    "Pasted image 20240916163404.png",
-    "Pasted image 20240916143240.png",
-    "Pasted image 20240916142358.png"
+    "000 Index.md"
   ]
 }

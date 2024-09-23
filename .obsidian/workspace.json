@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1e661b8672b54437",
+        "id": "27668670e54d9107",
         "type": "tabs",
         "children": [
           {
-            "id": "2a1572799040c954",
+            "id": "a5bb652465b3b9ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IZP/lectures/1 - Vývojové nástroje.md",
+                "file": "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f353708cfd66650",
+            "id": "3dd1ed4aedca446c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "IZP/lectures/1 - Vývojové nástroje.md",
-                "mode": "source",
-                "source": false
+                "file": "IDM/practice/attachments/Druha_Sada.pdf"
               }
             }
           }
@@ -82,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ee5af1b6e536e4af",
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IZP/lectures/1 - Vývojové nástroje.md",
+                "file": "IDM/practice/attachments/Druha_Sada.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IZP/lectures/1 - Vývojové nástroje.md",
+                "file": "IDM/practice/attachments/Druha_Sada.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IZP/lectures/1 - Vývojové nástroje.md"
+                "file": "IDM/practice/attachments/Druha_Sada.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,52 +158,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f353708cfd66650",
+  "active": "3dd1ed4aedca446c",
   "lastOpenFiles": [
-    "IZP/lectures/attachments/Pasted image 20240918163620.png",
-    "IZP/lectures/attachments/Pasted image 20240918163327.png",
-    "IZP/lectures/attachments/Pasted image 20240918163032.png",
-    "IZP/lectures/attachments/Pasted image 20240918162041.png",
-    "IZP/lectures/attachments/Pasted image 20240918161524.png",
-    "IZP/lectures/attachments/Pasted image 20240918161329.png",
-    "IZP/lectures/attachments",
-    "IZP/IZP.md",
-    "IZP/lectures/1 - Vývojové nástroje.md",
-    "Index.md",
-    "ILG/ILG.md",
-    "ILG/lectures/1. soustava rovnic.md",
-    "IEL/Info.md",
-    "IEL/IEL.md",
-    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IDM/practice/První cvičení - IDM.md",
     "IDM/IDM.md",
     "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "ILG/lectures/attachments/Pasted image 20240918135655.png",
-    "ILG/lectures/attachments/Pasted image 20240918134150.png",
-    "ILG/lectures/attachments/Pasted image 20240918133819.png",
-    "ILG/lectures/attachments/Pasted image 20240918132924.png",
-    "ILG/lectures/attachments/Pasted image 20240918132736.png",
+    "Index.md",
+    "IUS/lectures/2.  Modely jazyka UML.md",
+    "IUS/attachments/IUS02-1.pdf",
+    "IUS/lectures/attachments/Pasted image 20240923184331.png",
+    "IUS/lectures/attachments/Pasted image 20240923184253.png",
+    "IUS/lectures/attachments/Pasted image 20240923184156.png",
+    "IUS/lectures/attachments/Pasted image 20240923184022.png",
+    "IUS/lectures/attachments/Pasted image 20240923183937.png",
+    "IUS/lectures/attachments/Pasted image 20240923183928.png",
+    "IUS/lectures/attachments/Pasted image 20240923183314.png",
+    "IUS/lectures/attachments/Pasted image 20240923183215.png",
+    "IUS/lectures/attachments/Pasted image 20240923182825.png",
+    "IUS/lectures/attachments/Pasted image 20240923182730.png",
+    "IUS/lectures/attachments",
+    "ILG/ILG.md",
+    "ILG/lectures/1. soustava rovnic a matice.md",
+    "IUS/IUS.md",
+    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
+    "IZP/IZP.md",
+    "IZP/lectures/attachments/3s_principy-prog-jaz-1.pdf",
+    "IZP/lectures/attachments/4s_ridici-struktury-prog-jaz-2.pdf",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "ILG/practise/První cvičení.md",
+    "IEL/IEL.md",
+    "IEL/lectures/2. Měření elektrických veličin.md",
+    "ILG/attachments/PrvniSada.pdf",
+    "IEL/lectures/attachments",
+    "IDM/practice/attachments/Druha_Sada.pdf",
+    "IZP/lectures/1 - Vývojové nástroje.md",
+    "IZP/practise/1. Základy C.md",
+    "IZP/practise",
+    "IZP/lectures/attachments",
+    "IEL/Info.md",
     "ILG/lectures/attachments",
     "ILG/Info.md",
-    "ILG/lectures",
     "Untitled.canvas",
     "IDM/Info.md",
-    "IDM/practice/První cvičení - IDM.md",
-    "IDM/lectures/attachments",
-    "IDM/lectures",
-    "IUS/IUS.md",
-    "IDM/practice/attachments/Prva_Sada.pdf",
-    "IDM/practice/attachments/Druha_Sada.pdf",
-    "IDM/practice/attachments",
-    "IDM/practice",
-    "IDM",
     "IUS/1..md",
     "IUS/Info.md",
     "IZP/Info.md",
     "IZP/1 - Vývojové nástroje.md",
-    "ILG/Cvika - poznámky.md",
-    "IEL/1..md",
-    "Untitled.md",
-    "Welcome.md",
-    "create a link.md"
+    "ILG/Cvika - poznámky.md"
   ]
 }

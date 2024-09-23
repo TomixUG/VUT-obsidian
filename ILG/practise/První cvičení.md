@@ -7,3 +7,5 @@ Soubor: [[PrvniSada.pdf]]
 
 ### Hornerovo schéma
 [https://isibalo.com/matematika/vyrazy/hornerovo-schema](https://isibalo.com/matematika/vyrazy/hornerovo-schema)
+
+
