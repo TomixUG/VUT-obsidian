@@ -1,4 +1,4 @@
-Links: [[Index]]
+Links: [[index]]
 
 Hliněná: https://www.umat.fekt.vut.cz/~hlinena/vyuka-ILG.html
 ### Info

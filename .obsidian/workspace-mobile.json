@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
+                "file": "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
+            "file": "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
+            "file": "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IDM/lectures/1. - Výrokový a predikátový počet.md"
+            "file": "IUS/lectures/1.  - Co je to softwarové inženýrství.md"
           }
         }
       }
@@ -133,6 +133,17 @@
   },
   "active": "72b63d6c8f059982",
   "lastOpenFiles": [
+    "IUS/IUS.md",
+    "Index.md",
+    "IDM/IDM.md",
+    "IDM/Info.md",
+    "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "IDM/practice/attachments/Druhé cvičení.md",
+    "IDM/practice/attachments/attachments/Prva_Sada.pdf",
+    "IDM/practice/attachments/attachments",
+    "IDM/practice/Druhé cvičení.md",
+    "IDM/practice/attachments/Druha_Sada.pdf",
+    "IDM/practice/První cvičení - IDM.md",
     "IUS/lectures/attachments/Pasted image 20240923184331.png",
     "IUS/lectures/attachments/Pasted image 20240923184253.png",
     "IUS/lectures/attachments/Pasted image 20240923184156.png",
@@ -143,10 +154,6 @@
     "IUS/lectures/attachments/Pasted image 20240923183215.png",
     "IUS/lectures/attachments/Pasted image 20240923182825.png",
     "IUS/lectures/attachments/Pasted image 20240923182730.png",
-    "IUS/lectures/attachments/Pasted image 20240923182712.png",
-    "IDM/IDM.md",
-    "Index.md",
-    "IUS/IUS.md",
     "IUS/lectures/2.  Modely jazyka UML.md",
     "IUS/info.md",
     "ILG/attachments/PrvniSada.pdf",
@@ -156,15 +163,11 @@
     "IEL/IEL.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "ILG/lectures/1. soustava rovnic.md",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
     "IZP/IZP.md",
-    "IDM/Info.md",
     "IDM/lectures/1. - množiny.md",
     "IDM/lectures/Untitled.md",
     "IDM/lectures",
     "IEL/Info.md",
-    "IDM/practice/První cvičení - IDM.md",
-    "IDM/practice/attachments/Druha_Sada.pdf",
     "IDM/practice/attachments/Prva_Sada.pdf",
     "IDM/practice/attachments",
     "IDM/practice",
@@ -174,10 +177,6 @@
     "IZP/lectures/1 - Vývojové nástroje.md",
     "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
     "ILG/Cvika - poznámky.md",
-    "IEL/lectures",
-    "ILG/attachments",
-    "ILG/practise",
-    "ILG/Info.md",
-    "000 Index.md"
+    "IEL/lectures"
   ]
 }

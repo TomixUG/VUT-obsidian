@@ -17,3 +17,6 @@ První písemka 3. cvičení (1. října). Poté na jednom ano, na jednom ne.
 
 # Přednáška 
 Osmá sada pouze na cvičeních, ale na zkouškách.
+
+# Zkouška
+Test - 10 bodů, min 7 bodů (5 příkladů)

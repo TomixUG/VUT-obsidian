@@ -1,4 +1,4 @@
-Links: [[Index]]
+Links: [[index]]
 
 Info: https://www.fit.vut.cz/study/course/281002/.cs
 Moodle: https://moodle.vut.cz/course/view.php?id=281002#section-0
