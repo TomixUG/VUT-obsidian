@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5bb652465b3b9ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDM/IDM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03638cc125fd1c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dc226be3c6e8e43",
+            "id": "1870a5bcaf16b315",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +18,36 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5bb652465b3b9ab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IDM/practice/attachments/attachments/Prva_Sada.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 1.9906732339284638
+              }
+            }
+          },
+          {
+            "id": "d6ce344420e228bb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IDM/practice/attachments/Druha_Sada.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 1.9906732339284638
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md"
               }
             }
           }
@@ -169,54 +172,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "03638cc125fd1c75",
+  "active": "1870a5bcaf16b315",
   "lastOpenFiles": [
     "IDM/IDM.md",
-    "IDM/lectures/2. Úvod do množin.md",
-    "IDM/practice/Druhé cvičení.md",
-    "IDM/lectures/attachments/2._Prednaska_24._9._2024.pdf",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "index.md",
+    "IZP/lectures/2c - řídící struktury v programování.md",
+    "IZP/IZP.md",
+    "IZP/lectures/2b - řídící struktury v programování.md",
+    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
+    "IEL/IEL.md",
     "IDM/practice/attachments/attachments/Prva_Sada.pdf",
+    "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "IDM/practice/attachments/Druha_Sada.pdf",
+    "IDM/lectures/attachments/Pasted image 20240930131117.png",
+    "IDM/lectures/attachments/Pasted image 20240930131022.png",
+    "IDM/practice/Druhé cvičení.md",
+    "IEL/lectures/3. Kondenzátory a cívky.md",
+    "IEL/lectures/attachments/Pasted image 20240930115023.png",
+    "IEL/lectures/attachments/Pasted image 20240930114839.png",
+    "IEL/lectures/attachments/Pasted image 20240930114436.png",
+    "IEL/lectures/attachments/Pasted image 20240930114424.png",
+    "IEL/lectures/attachments/Pasted image 20240930114405.png",
+    "IEL/lectures/attachments/Pasted image 20240930112437.png",
+    "IEL/lectures/attachments/Pasted image 20240930112410.png",
+    "IEL/lectures/attachments/Pasted image 20240930112356.png",
+    "IEL/lectures/3. Kondenzátory a cívky.sync-conflict-20240930-110053-BK6CZH2.md",
+    "IDM/practice/První cvičení - IDM.md",
+    "IDM/lectures/2. Úvod do množin.md",
+    "IDM/lectures/attachments/2._Prednaska_24._9._2024.pdf",
+    "ILG/ILG.md",
+    "ILG/lectures/2. součet, násobení, transponování, soustavy rovnic, determinanty.md",
+    "ILG/lectures/1. soustava rovnic a matice.md",
+    "IZP/practise/1. Základy C.md",
+    "IZP/seminars/2. makefile, cykly, string.md",
+    "IZP/seminars",
+    "IEL/seminars/2. - řešení obvodů pomocí SLAR.md",
+    "IEL/seminars/attachments",
+    "IEL/seminars",
+    "IEL/Info.md",
+    "IEL/lectures/2. Měření elektrických veličin.md",
     "IDM/Info.md",
     "IDM/practice/attachments/attachments",
-    "index.md",
-    "IZP/IZP.md",
-    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
-    "IDM/practice/attachments/Druha_Sada.pdf",
-    "IDM/practice/První cvičení - IDM.md",
     "IUS/lectures/2.  Modely jazyka UML.md",
     "IUS/attachments/IUS02-1.pdf",
-    "IUS/lectures/attachments/Pasted image 20240923184331.png",
-    "IUS/lectures/attachments/Pasted image 20240923184253.png",
-    "IUS/lectures/attachments/Pasted image 20240923184156.png",
-    "IUS/lectures/attachments/Pasted image 20240923184022.png",
-    "IUS/lectures/attachments/Pasted image 20240923183937.png",
-    "IUS/lectures/attachments/Pasted image 20240923183928.png",
-    "IUS/lectures/attachments/Pasted image 20240923183314.png",
-    "IUS/lectures/attachments/Pasted image 20240923183215.png",
-    "IUS/lectures/attachments/Pasted image 20240923182825.png",
-    "IUS/lectures/attachments/Pasted image 20240923182730.png",
     "IUS/lectures/attachments",
-    "ILG/ILG.md",
-    "ILG/lectures/1. soustava rovnic a matice.md",
     "IUS/IUS.md",
     "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
     "IZP/lectures/attachments/3s_principy-prog-jaz-1.pdf",
-    "IZP/lectures/attachments/4s_ridici-struktury-prog-jaz-2.pdf",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
-    "ILG/practise/První cvičení.md",
-    "IEL/IEL.md",
-    "IEL/lectures/2. Měření elektrických veličin.md",
-    "ILG/attachments/PrvniSada.pdf",
-    "IEL/lectures/attachments",
-    "IZP/lectures/1 - Vývojové nástroje.md",
-    "IZP/practise/1. Základy C.md",
-    "IEL/Info.md",
-    "ILG/Info.md",
-    "Untitled.canvas",
-    "IUS/1..md"
+    "Untitled.canvas"
   ]
 }

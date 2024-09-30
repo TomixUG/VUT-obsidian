@@ -27,3 +27,16 @@ Tip na studijní materiál: https://elektrokniha.cz/
 - Super projekt
 - Plný počet bodů ze zkoušky
 
+
+# Semestrální projekt
+- 14. prosince
+- nemusím kliknout Odevzdat úkol, stačí upload souborů
+- Formát PDF
+	- xsouset00.pdf
+	- poté .zip (latex nebo výpočty)
+		- ${\LaTeX}$
+- Zadání: https://moodle.vut.cz/pluginfile.php/899503/mod_label/intro/IEL_zadani_2024.pdf
+- 4 desetinná místa
+- max 12 bodů
+	- min 3 body
+- důležité hezké

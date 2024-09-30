@@ -8,7 +8,10 @@ Moodle: https://moodle.vut.cz/course/view.php?id=280953&section=2#module-451478
 ## Přednášky
 - [[1 - Vývojové nástroje]]
 - [[2. Principy vyšších programovacích jazyků]]
+- [[2b - řídící struktury v programování]]
+- [[2c - řídící struktury v programování]]
 ## Semináře
+- [[2. makefile, cykly, string]]
 
 ## Cvičení
 - [[1. Základy C]]

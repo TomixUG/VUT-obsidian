@@ -10,10 +10,50 @@
           {
             "id": "72b63d6c8f059982",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IDM/practice/attachments/Druha_Sada.pdf",
+                "page": 1,
+                "left": 65,
+                "top": 654,
+                "zoom": 1.27
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2a6c08e18f750f37",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+                "file": "IDM/practice/První cvičení - IDM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54ff4cd8bba29ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDM/practice/Druhé cvičení.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cab74cefbf50ac7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDM/practice/První cvičení - IDM.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+            "file": "IDM/practice/attachments/Druha_Sada.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+            "file": "IDM/practice/attachments/Druha_Sada.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +154,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IUS/lectures/1.  - Co je to softwarové inženýrství.md"
+            "file": "IDM/practice/attachments/Druha_Sada.pdf"
           }
         }
       }
@@ -123,6 +163,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -133,17 +176,24 @@
   },
   "active": "72b63d6c8f059982",
   "lastOpenFiles": [
-    "IUS/IUS.md",
-    "Index.md",
-    "IDM/IDM.md",
-    "IDM/Info.md",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "IDM/practice/attachments/Druhé cvičení.md",
-    "IDM/practice/attachments/attachments/Prva_Sada.pdf",
-    "IDM/practice/attachments/attachments",
-    "IDM/practice/Druhé cvičení.md",
-    "IDM/practice/attachments/Druha_Sada.pdf",
+    "IEL/lectures/attachments/Pasted image 20240930115023.png",
     "IDM/practice/První cvičení - IDM.md",
+    "IDM/IDM.md",
+    "index.md",
+    "IEL/IEL.md",
+    "IEL/lectures/3. Kondenzátory a cívky.md",
+    "IEL/lectures/3. Kondenzátory a cívky.sync-conflict-20240930-110053-BK6CZH2.md",
+    "IDM/practice/attachments/attachments/Prva_Sada.pdf",
+    "IDM/practice/attachments/Druha_Sada.pdf",
+    "IDM/practice/Druhé cvičení.md",
+    "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "IDM/lectures/2. Úvod do množin.md",
+    "Index.md",
+    "IUS/IUS.md",
+    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+    "IDM/Info.md",
+    "IDM/practice/attachments/Druhé cvičení.md",
+    "IDM/practice/attachments/attachments",
     "IUS/lectures/attachments/Pasted image 20240923184331.png",
     "IUS/lectures/attachments/Pasted image 20240923184253.png",
     "IUS/lectures/attachments/Pasted image 20240923184156.png",
@@ -160,7 +210,6 @@
     "ILG/practise/První cvičení.md",
     "ILG/ILG.md",
     "ILG/lectures/1. soustava rovnic a matice.md",
-    "IEL/IEL.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "ILG/lectures/1. soustava rovnic.md",
     "IZP/IZP.md",
@@ -172,11 +221,6 @@
     "IDM/practice/attachments",
     "IDM/practice",
     "IDM",
-    "PrvniSada.pdf.md",
-    "IZP/Info.md",
-    "IZP/lectures/1 - Vývojové nástroje.md",
-    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
-    "ILG/Cvika - poznámky.md",
     "IEL/lectures"
   ]
 }
