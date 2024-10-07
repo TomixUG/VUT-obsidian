@@ -8,46 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1870a5bcaf16b315",
+            "id": "2ec4abd4da6f6769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5bb652465b3b9ab",
+            "id": "625c0842155aa7cf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "IDM/practice/attachments/attachments/Prva_Sada.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.9906732339284638
-              }
-            }
-          },
-          {
-            "id": "d6ce344420e228bb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "IDM/practice/attachments/Druha_Sada.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.9906732339284638
+                "file": "IUS/lectures/4. OOP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
+                "file": "IUS/lectures/4. OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md",
+                "file": "IUS/lectures/4. OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDM/lectures/1. - Výrokový a predikátový počet.md"
+                "file": "IUS/lectures/4. OOP.md"
               }
             }
           }
@@ -178,54 +163,92 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1870a5bcaf16b315",
+  "floating": {
+    "id": "27d105e5af78b1fa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2d7a20b99367eb1d",
+        "type": "window",
+        "children": [
+          {
+            "id": "14637780165e553b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ecc7ec30b99478c4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "IUS/attachments/IUS04.pdf",
+                    "page": 47,
+                    "left": 419,
+                    "top": -19,
+                    "zoom": 0.8011363636363636
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1005,
+        "y": 47,
+        "width": 898,
+        "height": 1016,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "625c0842155aa7cf",
   "lastOpenFiles": [
-    "IDM/IDM.md",
+    "IUS/attachments/IUS04.pdf",
+    "IUS/lectures/4. OOP.md",
+    "IUS/lectures/attachments/Pasted image 20241007182937.png",
+    "IUS/lectures/attachments/Pasted image 20241007182414.png",
+    "IUS/lectures/attachments/Pasted image 20241007182402.png",
+    "IUS/lectures/attachments/Pasted image 20241007182326.png",
+    "IUS/lectures/attachments/Pasted image 20241007181821.png",
+    "IUS/lectures/attachments/Pasted image 20241007181130.png",
+    "IUS/lectures/attachments/Pasted image 20241007180931.png",
+    "IUS/lectures/attachments/Pasted image 20241007180913.png",
+    "IUS/lectures/attachments/Pasted image 20241007175101.png",
+    "IUS/lectures/attachments/Pasted image 20241007174632.png",
     "index.md",
-    "IZP/lectures/2c - řídící struktury v programování.md",
     "IZP/IZP.md",
-    "IZP/lectures/2b - řídící struktury v programování.md",
-    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
     "IEL/IEL.md",
-    "IDM/practice/attachments/attachments/Prva_Sada.pdf",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "IDM/practice/attachments/Druha_Sada.pdf",
-    "IDM/lectures/attachments/Pasted image 20240930131117.png",
-    "IDM/lectures/attachments/Pasted image 20240930131022.png",
-    "IDM/practice/Druhé cvičení.md",
-    "IEL/lectures/3. Kondenzátory a cívky.md",
-    "IEL/lectures/attachments/Pasted image 20240930115023.png",
-    "IEL/lectures/attachments/Pasted image 20240930114839.png",
-    "IEL/lectures/attachments/Pasted image 20240930114436.png",
-    "IEL/lectures/attachments/Pasted image 20240930114424.png",
-    "IEL/lectures/attachments/Pasted image 20240930114405.png",
-    "IEL/lectures/attachments/Pasted image 20240930112437.png",
-    "IEL/lectures/attachments/Pasted image 20240930112410.png",
-    "IEL/lectures/attachments/Pasted image 20240930112356.png",
-    "IEL/lectures/3. Kondenzátory a cívky.sync-conflict-20240930-110053-BK6CZH2.md",
-    "IDM/practice/První cvičení - IDM.md",
-    "IDM/lectures/2. Úvod do množin.md",
-    "IDM/lectures/attachments/2._Prednaska_24._9._2024.pdf",
     "ILG/ILG.md",
-    "ILG/lectures/2. součet, násobení, transponování, soustavy rovnic, determinanty.md",
-    "ILG/lectures/1. soustava rovnic a matice.md",
-    "IZP/practise/1. Základy C.md",
-    "IZP/seminars/2. makefile, cykly, string.md",
-    "IZP/seminars",
-    "IEL/seminars/2. - řešení obvodů pomocí SLAR.md",
-    "IEL/seminars/attachments",
-    "IEL/seminars",
-    "IEL/Info.md",
-    "IEL/lectures/2. Měření elektrických veličin.md",
-    "IDM/Info.md",
-    "IDM/practice/attachments/attachments",
-    "IUS/lectures/2.  Modely jazyka UML.md",
-    "IUS/attachments/IUS02-1.pdf",
-    "IUS/lectures/attachments",
+    "ILG/practise/ILG Druhé cvičení.md",
     "IUS/IUS.md",
-    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
-    "IZP/lectures/attachments/3s_principy-prog-jaz-1.pdf",
+    "IZP/lectures/4 - idk.md",
+    "IZP/lectures/5s_ukazatel-pole-funkce-1.pdf",
+    "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
+    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
+    "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
+    "ILG/practise/První cvičení.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IEL/seminars/2. - řešení obvodů pomocí SLAR.md",
+    "IUS/lectures/3. ERD.md",
+    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+    "IUS/practises/1. stavový diagram aktivit, usecase diagram.md",
+    "IUS/lectures/2.  Modely jazyka UML.md",
+    "IDM/IDM.md",
+    "IDM/practice/Druhé cvičení.md",
+    "IDM/lectures/3. Důkazy.md",
+    "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "IZP/practise/3. řetězce.md",
+    "IZP/seminars/3. průchody polem.md",
+    "IZP/lectures/attachments/5s_ukazatel-pole-funkce.pdf",
+    "IDM/lectures/2. Úvod do množin a důkazy.md",
+    "IDM/practice/attachments/Druha_Sada.pdf",
+    "IDM/practice/attachments/attachments/Prva_Sada.pdf",
+    "IUS/practises/attachments",
+    "IUS/practises",
+    "IUS/Untitled.md",
+    "IUS/lectures/attachments/IUS03.pdf",
+    "IUS/attachments/IUS01.pdf",
     "Untitled.canvas"
   ]
 }

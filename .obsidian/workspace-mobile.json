@@ -16,9 +16,7 @@
               "state": {
                 "file": "IDM/practice/attachments/Druha_Sada.pdf",
                 "page": 1,
-                "left": 65,
-                "top": 654,
-                "zoom": 1.27
+                "zoom": 1
               },
               "pinned": true
             }
@@ -29,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/practice/První cvičení - IDM.md",
-                "mode": "source",
+                "file": "ILG/practise/ILG Druhé cvičení.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -59,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IDM/practice/attachments/Druha_Sada.pdf",
+            "file": "ILG/practise/ILG Druhé cvičení.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IDM/practice/attachments/Druha_Sada.pdf",
+            "file": "ILG/practise/ILG Druhé cvičení.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -154,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IDM/practice/attachments/Druha_Sada.pdf"
+            "file": "ILG/practise/ILG Druhé cvičení.md"
           }
         }
       }
@@ -174,23 +173,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72b63d6c8f059982",
+  "active": "2a6c08e18f750f37",
   "lastOpenFiles": [
-    "IEL/lectures/attachments/Pasted image 20240930115023.png",
-    "IDM/practice/První cvičení - IDM.md",
-    "IDM/IDM.md",
+    "ILG/ILG.md",
     "index.md",
+    "IUS/IUS.md",
+    "IUS/info.md",
+    "IZP/IZP.md",
+    "ILG/practise/První cvičení.md",
+    "IUS/lectures/2.  Modely jazyka UML.md",
+    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+    "IUS/lectures/3. ERD.md",
+    "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
+    "IZP/lectures/attachments/Pasted image 20241002162709.png",
+    "IZP/practise/3. řetězce.md",
+    "IDM/lectures/attachments/Pasted image 20241003104621.png",
+    "IZP/seminars/3. průchody polem.md",
+    "IZP/lectures/attachments/Pasted image 20241002163917.png",
+    "IDM/lectures/attachments/Pasted image 20241003104213.png",
+    "IZP/lectures/attachments/Pasted image 20241002163205.png",
+    "IZP/lectures/attachments/5s_ukazatel-pole-funkce.pdf",
+    "IDM/IDM.md",
+    "IDM/lectures/3. Důkazy.md",
+    "IUS/practises/1. stavový diagram aktivit, usecase diagram.md",
+    "IDM/lectures/1. - Výrokový a predikátový počet.md",
+    "IDM/practice/První cvičení - IDM.md",
+    "IDM/practice/attachments/Druha_Sada.pdf",
+    "IEL/lectures/attachments/Pasted image 20240930115023.png",
     "IEL/IEL.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
     "IEL/lectures/3. Kondenzátory a cívky.sync-conflict-20240930-110053-BK6CZH2.md",
     "IDM/practice/attachments/attachments/Prva_Sada.pdf",
-    "IDM/practice/attachments/Druha_Sada.pdf",
     "IDM/practice/Druhé cvičení.md",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
     "IDM/lectures/2. Úvod do množin.md",
     "Index.md",
-    "IUS/IUS.md",
-    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
     "IDM/Info.md",
     "IDM/practice/attachments/Druhé cvičení.md",
     "IDM/practice/attachments/attachments",
@@ -198,29 +214,12 @@
     "IUS/lectures/attachments/Pasted image 20240923184253.png",
     "IUS/lectures/attachments/Pasted image 20240923184156.png",
     "IUS/lectures/attachments/Pasted image 20240923184022.png",
-    "IUS/lectures/attachments/Pasted image 20240923183928.png",
-    "IUS/lectures/attachments/Pasted image 20240923183937.png",
-    "IUS/lectures/attachments/Pasted image 20240923183314.png",
-    "IUS/lectures/attachments/Pasted image 20240923183215.png",
-    "IUS/lectures/attachments/Pasted image 20240923182825.png",
-    "IUS/lectures/attachments/Pasted image 20240923182730.png",
-    "IUS/lectures/2.  Modely jazyka UML.md",
-    "IUS/info.md",
     "ILG/attachments/PrvniSada.pdf",
-    "ILG/practise/První cvičení.md",
-    "ILG/ILG.md",
     "ILG/lectures/1. soustava rovnic a matice.md",
-    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
-    "ILG/lectures/1. soustava rovnic.md",
-    "IZP/IZP.md",
-    "IDM/lectures/1. - množiny.md",
-    "IDM/lectures/Untitled.md",
     "IDM/lectures",
-    "IEL/Info.md",
     "IDM/practice/attachments/Prva_Sada.pdf",
     "IDM/practice/attachments",
     "IDM/practice",
-    "IDM",
-    "IEL/lectures"
+    "IDM"
   ]
 }

@@ -13,3 +13,4 @@ prezentace: https://www.umat.fekt.vut.cz/~hlinena/ILG/Prednasky/
 ## Cvičení
 Úlohy: https://www.umat.fekt.vut.cz/~hlinena/ILG/SadyUloh/
 - [[ILG/practise/První cvičení]] 
+- [[ILG Druhé cvičení ]]

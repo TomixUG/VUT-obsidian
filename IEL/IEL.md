@@ -9,8 +9,12 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281030
 - [[1. Základní pojmy a veličiny v el. obvodech]]
 - [[2. Měření elektrických veličin]]
 - [[3. Kondenzátory a cívky]]
+- [[4. Přechodové jevy na RC, RL, RLC a vedení]]
 ## Semináře
 - [[2. - řešení obvodů pomocí SLAR]]
 
 
 ## Cvičení
+
+## Projekt
+https://moodle.vut.cz/pluginfile.php/899503/mod_label/intro/IEL_zadani_2024.pdf

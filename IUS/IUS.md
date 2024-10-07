@@ -9,7 +9,14 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281002#section-0
 ## Přednášky
 - [[1.  - Co je to softwarové inženýrství]]
 - [[2.  Modely jazyka UML]]
+- [[3. ERD]]
+- [[4. OOP]]
 
 ## Semináře
 
 ## Cvičení
+- [[1. stavový diagram aktivit, usecase diagram]]
+
+
+Domácí úloha ERD:
+[[IUS_ERD_zk_2017_1.pdf]]

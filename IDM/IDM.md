@@ -8,7 +8,8 @@ Hliněná: https://www.umat.fekt.vut.cz/~hlinena/vyuka-IDM.html
 ## Přednášky
 [Materiály](https://www.umat.fekt.vut.cz/~hlinena/IDM/Prednasky/)
 - [[1. - Výrokový a predikátový počet]]
-- [[2. Úvod do množin]]
+- [[2. Úvod do množin a důkazy]]
+- [[3. Důkazy]]
 ## Semináře
 
 ## Cvičení
