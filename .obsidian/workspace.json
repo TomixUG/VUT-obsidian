@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IZP/seminars/4. STD IO.md",
+                "file": "IUS/IUS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IZP/seminars/4. STD IO.md",
+                "file": "IUS/IUS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IZP/seminars/4. STD IO.md",
+                "file": "IUS/IUS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IZP/seminars/4. STD IO.md"
+                "file": "IUS/IUS.md"
               }
             }
           }
@@ -165,12 +165,14 @@
   },
   "active": "625c0842155aa7cf",
   "lastOpenFiles": [
+    "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
+    "IUS/IUS.md",
+    "index.md",
     "IZP/IZP.md",
+    "IZP/seminars/4. STD IO.md",
     "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
-    "IZP/seminars/4. STD IO.md",
     "IZP/lectures/4 - idk.md",
-    "index.md",
     "IEL/IEL.md",
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
     "IEL/lectures/attachments/Pasted image 20241009144642.png",
@@ -183,12 +185,10 @@
     "IEL/lectures/attachments/Pasted image 20241009141951.png",
     "IEL/lectures/attachments/Pasted image 20241009141832.png",
     "IEL/lectures/attachments/Pasted image 20241009141640.png",
-    "IUS/IUS.md",
     "IUS/lectures/3. ERD.md",
     "IUS/lectures/attachments/IUS03.pdf",
     "IUS/lectures/2.  Modely jazyka UML.md",
     "IUS/lectures/4. OOP.md",
-    "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
     "IUS/info.md",
     "IEL/Info.md",
     "IUS/attachments/IUS04.pdf",
