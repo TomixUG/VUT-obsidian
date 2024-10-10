@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ILG/practise/ILG Druhé cvičení.md",
+                "file": "IDM/IDM.md",
                 "mode": "preview",
                 "source": false
               }
@@ -124,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ILG/practise/ILG Druhé cvičení.md",
+            "file": "IDM/IDM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ILG/practise/ILG Druhé cvičení.md",
+            "file": "IDM/IDM.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ILG/practise/ILG Druhé cvičení.md"
+            "file": "IDM/IDM.md"
           }
         }
       }
@@ -175,9 +175,11 @@
   },
   "active": "2a6c08e18f750f37",
   "lastOpenFiles": [
-    "ILG/ILG.md",
     "index.md",
     "IUS/IUS.md",
+    "IUS/lectures/4. OOP.md",
+    "ILG/ILG.md",
+    "ILG/practise/ILG Druhé cvičení.md",
     "IUS/info.md",
     "IZP/IZP.md",
     "ILG/practise/První cvičení.md",
@@ -208,14 +210,12 @@
     "IDM/lectures/2. Úvod do množin.md",
     "Index.md",
     "IDM/Info.md",
-    "IDM/practice/attachments/Druhé cvičení.md",
     "IDM/practice/attachments/attachments",
     "IUS/lectures/attachments/Pasted image 20240923184331.png",
     "IUS/lectures/attachments/Pasted image 20240923184253.png",
     "IUS/lectures/attachments/Pasted image 20240923184156.png",
     "IUS/lectures/attachments/Pasted image 20240923184022.png",
     "ILG/attachments/PrvniSada.pdf",
-    "ILG/lectures/1. soustava rovnic a matice.md",
     "IDM/lectures",
     "IDM/practice/attachments/Prva_Sada.pdf",
     "IDM/practice/attachments",

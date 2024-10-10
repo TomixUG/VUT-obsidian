@@ -12,9 +12,11 @@ Moodle: https://moodle.vut.cz/course/view.php?id=280953&section=2#module-451478
 - [[2c - řídící struktury v programování]]
 - [[3 - Typ ukazatel, strukturované datové typy, memory]]
 - [[4 - idk]]
+- [[4b - Výčtový typ, strukturované datové typy]]
 ## Semináře
 - [[2. makefile, cykly, string]]
 - [[3. průchody polem]]
+- [[4. STD IO]]
 
 ## Cvičení
 - [[1. Základy C]]
