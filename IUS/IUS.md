@@ -11,12 +11,18 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281002#section-0
 - [[2.  Modely jazyka UML]]
 - [[3. ERD]]
 - [[4. OOP]]
+- [[5. UML, OCL, Návhrové vzory]]
+- [[6. Architektonické vzory]]
+- [[7.  Implementace SW]]
 
 ## Semináře
 
 ## Cvičení
 - [[1. stavový diagram aktivit, usecase diagram]]
+- [[2. ERD modelling]]
+- [[3. Class]]
 
 
 Domácí úloha ERD:
+[[Domácí úloha notes]]
 [[IUS_ERD_zk_2017_1.pdf]]

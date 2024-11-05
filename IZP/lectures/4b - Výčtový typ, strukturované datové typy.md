@@ -98,3 +98,70 @@ enum {A, V, L, BUS, N_TRANS};
 if(v >= 0 && v<N_TRANS){}
 ```
 
+![[Pasted image 20241027222811.png]]
+
+Heterogenní
+
+K poli přistupujeme pomocí indexace
+- Indexace počítá KDY **za běhu programu**
+- index je dynamický
+- počet prvků je **statická vlastnost**
+	- pole je statická struktura z ohledem na počet prvků
+K záznamu přistupujeme pomocí selektorem
+- 
+
+Seznam
+- každý jeho prvek vystupuje sám za sebe
+
+## Datové typy
+- unsigned int
+	- <0; 2^32>
+- unsigned long int
+	- <0; 2^64>
+- unsigned long long int
+
+sizeof(int) <= sizeof(long int) <= sizeof(long long int)
+
+## Pointer na struct
+- pointer na struct má stejnou velikost jako prostě normální ukazatel
+```c
+typedef struct TOsoba{
+	int vyska;
+	int vek;
+	double vaha[4];
+};
+...
+
+TOsoba o;
+TOsoba *p = &o;
+
+// UKOL: accessni posledni prvek vahy pomoci pointeru p
+// nasledujici napisy jsou ekvivalentni
+(*p).vaha[3];
+p->vaha[3];
+```
+- přímá struktura používáme tečku `.`
+- ukazatel na strukturu používáme šipku `->`
+
+#### Jak funguje scanf
+- dívá se na stdin, dívá se na ta data, proccesinguje to a hledá ty formatter strings
+- `scanf("%d", &myVar);`
+- vrací počet proměnných, které se mu povedlo transformovat
+
+### Structs
+- incicializace:
+```c
+typedef struct {
+	int vyska;
+	int vek;
+	double vaha;
+} TOsoba;
+
+TOsoba c4 = {.vyska = 12, .vek = 4, .vaha = 4.4};
+TOsoba c4 = {25, 182, 82.5}
+
+```
+#### dynamic
+```c
+TOsoba = *novyClovek = malloc(sizeof(TOsoba));
+```

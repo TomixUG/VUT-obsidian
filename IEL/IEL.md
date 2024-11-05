@@ -10,6 +10,9 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281030
 - [[2. Měření elektrických veličin]]
 - [[3. Kondenzátory a cívky]]
 - [[4. Přechodové jevy na RC, RL, RLC a vedení]]
+- [[5. Polovodiče]]
+- [[6. Tranzistory]]
+- [[8. Unipolární tranzistory]]
 ## Semináře
 - [[2. - řešení obvodů pomocí SLAR]]
 

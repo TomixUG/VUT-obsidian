@@ -11,13 +11,21 @@ Moodle: https://moodle.vut.cz/course/view.php?id=280953&section=2#module-451478
 - [[2b - řídící struktury v programování]]
 - [[2c - řídící struktury v programování]]
 - [[3 - Typ ukazatel, strukturované datové typy, memory]]
-- [[4 - idk]]
+- [[4 - pole]]
 - [[4b - Výčtový typ, strukturované datové typy]]
+- [[5 - Testování a ladění]]
+- [[6 - Rekurentní problémy]]
+- [[8. Algoritmy pro numerické výpočty]]
+- [[8b. Algoritmy pro práci s vektory a s maticemi]]
 ## Semináře
 - [[2. makefile, cykly, string]]
 - [[3. průchody polem]]
 - [[4. STD IO]]
+- [[5. debugging]]
 
 ## Cvičení
 - [[1. Základy C]]
 - [[3. řetězce]]
+- [[5. Files, structs]]
+### exams
+[[midterm]]

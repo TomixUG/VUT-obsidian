@@ -8,31 +8,89 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ec4abd4da6f6769",
+            "id": "606a71c63fcb1b31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "625c0842155aa7cf",
+            "id": "827d1383b4bc9370",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IUS/IUS.md",
+                "file": "7.  Implementace SW.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.  Implementace SW"
+            }
+          },
+          {
+            "id": "779ec764472cb9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Class.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3. Class"
+            }
+          },
+          {
+            "id": "f1926150212c40c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 846,
+                "zoom": -0.05042016806722689
+              },
+              "icon": "lucide-file-text",
+              "title": "IUS_ERD_zk_2017_1"
+            }
+          },
+          {
+            "id": "8713657b7a0b41ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IUS/practises/Domácí úloha notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domácí úloha notes"
+            }
+          },
+          {
+            "id": "f2d083404fe3eb0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IUS/info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "info"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +110,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +127,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,14 +137,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 210.5,
+    "collapsed": true
   },
   "right": {
     "id": "ee5af1b6e536e4af",
@@ -98,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IUS/IUS.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +171,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
             }
           },
           {
@@ -115,10 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IUS/IUS.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -129,7 +198,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IUS/IUS.md"
-              }
+                "file": "index.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
             }
           }
         ],
@@ -163,53 +236,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "625c0842155aa7cf",
+  "active": "606a71c63fcb1b31",
   "lastOpenFiles": [
-    "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
-    "IUS/IUS.md",
-    "index.md",
-    "IZP/IZP.md",
-    "IZP/seminars/4. STD IO.md",
-    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
-    "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
-    "IZP/lectures/4 - idk.md",
-    "IEL/IEL.md",
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
-    "IEL/lectures/attachments/Pasted image 20241009144642.png",
-    "IEL/lectures/attachments/Pasted image 20241009144322.png",
-    "IEL/lectures/attachments/Pasted image 20241009144138.png",
-    "IEL/lectures/attachments/Pasted image 20241009143644.png",
-    "IEL/lectures/attachments/Pasted image 20241009143357.png",
-    "IEL/lectures/attachments/Pasted image 20241009142940.png",
-    "IEL/lectures/attachments/Pasted image 20241009142433.png",
-    "IEL/lectures/attachments/Pasted image 20241009141951.png",
-    "IEL/lectures/attachments/Pasted image 20241009141832.png",
-    "IEL/lectures/attachments/Pasted image 20241009141640.png",
+    "IEL/IEL.md",
+    "index.md",
+    "IDM/IDM.md",
+    "7.  Implementace SW.md",
+    "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
+    "attachments/Pasted image 20241104182645.png",
+    "attachments/Pasted image 20241104182625.png",
+    "attachments/Pasted image 20241104182545.png",
+    "attachments/Pasted image 20241104182511.png",
+    "attachments/Pasted image 20241104182502.png",
+    "attachments/Pasted image 20241104182435.png",
+    "attachments/Pasted image 20241104182428.png",
+    "attachments/Pasted image 20241104181047.png",
+    "attachments/Pasted image 20241104180950.png",
+    "attachments/Pasted image 20241104180929.png",
+    "IUS/IUS.md",
+    "IUS/lectures/6. Architektonické vzory.md",
+    "IZP/IZP.md",
+    "IZP/lectures/8b. Algoritmy pro práci s vektory a s maticemi.md",
+    "IZP/lectures/8. Algoritmy pro numerické výpočty.md",
+    "IEL/lectures/8. Unipolární tranzistory.md",
+    "IUS/practises/3. Class.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IEL/lectures/2. Měření elektrických veličin.md",
+    "IEL/lectures/3. Kondenzátory a cívky.md",
+    "IDM/lectures/6. Relace.md",
+    "IUS/info.md",
     "IUS/lectures/3. ERD.md",
     "IUS/lectures/attachments/IUS03.pdf",
-    "IUS/lectures/2.  Modely jazyka UML.md",
-    "IUS/lectures/4. OOP.md",
-    "IUS/info.md",
-    "IEL/Info.md",
-    "IUS/attachments/IUS04.pdf",
-    "ILG/ILG.md",
-    "ILG/practise/ILG Druhé cvičení.md",
-    "IZP/lectures/5s_ukazatel-pole-funkce-1.pdf",
-    "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
-    "ILG/practise/První cvičení.md",
-    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
-    "IEL/seminars/2. - řešení obvodů pomocí SLAR.md",
-    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
-    "IUS/practises/1. stavový diagram aktivit, usecase diagram.md",
-    "IDM/IDM.md",
+    "IDM/practice/Osmé cvičení.md",
+    "IUS/practises/Domácí úloha notes.md",
     "IDM/practice/Druhé cvičení.md",
-    "IDM/lectures/3. Důkazy.md",
+    "IDM/practice/První cvičení - IDM.md",
+    "IDM/lectures/5. Potenční množina, princip inkluzie exkluzie.md",
     "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "IZP/lectures/attachments/5s_ukazatel-pole-funkce.pdf",
-    "IDM/practice/attachments/Druha_Sada.pdf",
-    "IDM/practice/attachments/attachments/Prva_Sada.pdf",
-    "IUS/practises/attachments",
-    "IUS/practises",
+    "IZP/Info.md",
+    "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
+    "IZP/seminars/attachments",
+    "IUS/lectures/attachments/IUS06.pdf",
+    "attachments",
+    "IZP/exams/attachments",
+    "IZP/exams",
+    "IUS/attachments/IUS01.pdf",
+    "IUS/attachments/IUS04.pdf",
     "Untitled.canvas"
   ]
 }

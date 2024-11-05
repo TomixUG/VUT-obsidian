@@ -14,11 +14,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "IDM/practice/attachments/Druha_Sada.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "IDM/practice/attachments/Druha_Sada.pdf"
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Druha_Sada"
             }
           },
           {
@@ -28,9 +28,11 @@
               "type": "markdown",
               "state": {
                 "file": "IDM/IDM.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "IDM"
             }
           },
           {
@@ -42,7 +44,9 @@
                 "file": "IDM/practice/Druhé cvičení.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Druhé cvičení"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "file": "IDM/practice/První cvičení - IDM.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "První cvičení - IDM"
             }
           }
         ],
@@ -74,7 +80,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -89,7 +97,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -100,7 +110,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -108,7 +120,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -124,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IDM/IDM.md",
+            "file": "IZP/IZP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +146,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -141,10 +157,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IDM/IDM.md",
+            "file": "ILG/practise/ILG  Čtvrté.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -153,8 +171,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IDM/IDM.md"
-          }
+            "file": "ILG/practise/ILG  Čtvrté.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -176,50 +196,49 @@
   "active": "2a6c08e18f750f37",
   "lastOpenFiles": [
     "index.md",
-    "IUS/IUS.md",
-    "IUS/lectures/4. OOP.md",
-    "ILG/ILG.md",
-    "ILG/practise/ILG Druhé cvičení.md",
-    "IUS/info.md",
-    "IZP/IZP.md",
-    "ILG/practise/První cvičení.md",
-    "IUS/lectures/2.  Modely jazyka UML.md",
-    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
-    "IUS/lectures/3. ERD.md",
-    "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
-    "IZP/lectures/attachments/Pasted image 20241002162709.png",
-    "IZP/practise/3. řetězce.md",
-    "IDM/lectures/attachments/Pasted image 20241003104621.png",
-    "IZP/seminars/3. průchody polem.md",
-    "IZP/lectures/attachments/Pasted image 20241002163917.png",
-    "IDM/lectures/attachments/Pasted image 20241003104213.png",
-    "IZP/lectures/attachments/Pasted image 20241002163205.png",
-    "IZP/lectures/attachments/5s_ukazatel-pole-funkce.pdf",
-    "IDM/IDM.md",
-    "IDM/lectures/3. Důkazy.md",
-    "IUS/practises/1. stavový diagram aktivit, usecase diagram.md",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "IDM/practice/První cvičení - IDM.md",
-    "IDM/practice/attachments/Druha_Sada.pdf",
-    "IEL/lectures/attachments/Pasted image 20240930115023.png",
     "IEL/IEL.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
-    "IEL/lectures/3. Kondenzátory a cívky.sync-conflict-20240930-110053-BK6CZH2.md",
+    "IZP/IZP.md",
+    "IZP/lectures/5 - Testování a ladění.md",
+    "IZP/lectures/4 - pole.md",
+    "IZP/exams/midterm.md",
+    "ILG/ILG.md",
+    "ILG/lectures/6. Skalární součin.md",
+    "ILG/lectures/attachments/IMG_20241030_133944.jpg",
+    "ILG/lectures/5. Groupy.md",
+    "IZP/practise/3. řetězce.md",
+    "IZP/practise/1. Základy C.md",
+    "IZP/practise/5. Files, structs.md",
+    "IZP/seminars/4. STD IO.md",
+    "IZP/seminars/3. průchody polem.md",
+    "IZP/seminars/2. makefile, cykly, string.md",
+    "IDM/IDM.md",
+    "IDM/lectures/6. Relace.md",
+    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IEL/lectures/2. Měření elektrických veličin.md",
+    "IZP/lectures/6 - Rekurentní problémy.md",
+    "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
+    "IZP/lectures/2c - řídící struktury v programování.md",
+    "IZP/lectures/2b - řídící struktury v programování.md",
+    "IZP/exams/attachments",
+    "IZP/exams",
+    "IUS/practises/attachments/Pasted image 20241015143350.png",
+    "IEL/lectures/attachments/Pasted image 20241016144449.png",
+    "IUS/lectures/attachments/Pasted image 20241014172118.png",
+    "IUS/lectures/attachments/Pasted image 20241014170721.png",
+    "IUS/lectures/attachments/Pasted image 20241014181946.png",
+    "IUS/lectures/attachments/Pasted image 20241014162220.png",
+    "IUS/lectures/attachments/Pasted image 20241014164111.png",
+    "IUS/lectures/attachments/Pasted image 20241014183344.png",
+    "IEL/lectures/attachments/Pasted image 20241014114547.png",
+    "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
+    "IZP/lectures/attachments/5s_ukazatel-pole-funkce.pdf",
+    "IDM/practice/attachments/Druha_Sada.pdf",
     "IDM/practice/attachments/attachments/Prva_Sada.pdf",
-    "IDM/practice/Druhé cvičení.md",
-    "IDM/lectures/2. Úvod do množin.md",
-    "Index.md",
-    "IDM/Info.md",
     "IDM/practice/attachments/attachments",
-    "IUS/lectures/attachments/Pasted image 20240923184331.png",
-    "IUS/lectures/attachments/Pasted image 20240923184253.png",
-    "IUS/lectures/attachments/Pasted image 20240923184156.png",
-    "IUS/lectures/attachments/Pasted image 20240923184022.png",
     "ILG/attachments/PrvniSada.pdf",
     "IDM/lectures",
-    "IDM/practice/attachments/Prva_Sada.pdf",
-    "IDM/practice/attachments",
-    "IDM/practice",
-    "IDM"
+    "IDM/practice/attachments/Prva_Sada.pdf"
   ]
 }
