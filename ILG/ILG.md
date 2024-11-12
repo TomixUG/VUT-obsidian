@@ -17,3 +17,4 @@ prezentace: https://www.umat.fekt.vut.cz/~hlinena/ILG/Prednasky/
 - [[ILG/practise/První cvičení]] 
 - [[ILG Druhé cvičení ]]
 - [[ILG  Čtvrté]]
+- [[ILG osmé]]

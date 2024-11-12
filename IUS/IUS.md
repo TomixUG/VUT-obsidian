@@ -14,6 +14,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281002#section-0
 - [[5. UML, OCL, Návhrové vzory]]
 - [[6. Architektonické vzory]]
 - [[7.  Implementace SW]]
+- [[8. Modely životního cyklu, metodiky vývoje SW]]
 
 ## Semináře
 
@@ -21,6 +22,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281002#section-0
 - [[1. stavový diagram aktivit, usecase diagram]]
 - [[2. ERD modelling]]
 - [[3. Class]]
+- [[4. diagram interakce]]
 
 
 Domácí úloha ERD:

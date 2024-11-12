@@ -17,6 +17,10 @@ Moodle: https://moodle.vut.cz/course/view.php?id=280953&section=2#module-451478
 - [[6 - Rekurentní problémy]]
 - [[8. Algoritmy pro numerické výpočty]]
 - [[8b. Algoritmy pro práci s vektory a s maticemi]]
+- [[8c. Algoritmy pro vyhledávání a řazení]]
+- [[8d. Dynamic memory]]
+- [[9. Řazení]]
+- [[9b. Ladění programů]]
 ## Semináře
 - [[2. makefile, cykly, string]]
 - [[3. průchody polem]]
@@ -27,5 +31,6 @@ Moodle: https://moodle.vut.cz/course/view.php?id=280953&section=2#module-451478
 - [[1. Základy C]]
 - [[3. řetězce]]
 - [[5. Files, structs]]
+- [[8. Dynamická paměť]]
 ### exams
 [[midterm]]

@@ -11,10 +11,30 @@
             "id": "606a71c63fcb1b31",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "IEL/IEL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IEL"
+            }
+          },
+          {
+            "id": "d64d18e09e52ddf9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ILG/practise/attachments/PiataSada.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 846,
+                "zoom": 1.4224398602338397
+              },
+              "icon": "lucide-file-text",
+              "title": "PiataSada"
             }
           },
           {
@@ -23,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.  Implementace SW.md",
+                "file": "IEL/lectures/3. Kondenzátory a cívky.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.  Implementace SW"
+              "title": "3. Kondenzátory a cívky"
             }
           },
           {
@@ -89,6 +109,16 @@
               "icon": "lucide-file",
               "title": "info"
             }
+          },
+          {
+            "id": "dffad190a9081985",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -146,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 210.5
   },
   "right": {
     "id": "ee5af1b6e536e4af",
@@ -182,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "IEL/IEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from IEL"
             }
           },
           {
@@ -238,51 +267,52 @@
   },
   "active": "606a71c63fcb1b31",
   "lastOpenFiles": [
-    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
+    "IEL/Info.md",
     "IEL/IEL.md",
-    "index.md",
-    "IDM/IDM.md",
-    "7.  Implementace SW.md",
-    "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
-    "attachments/Pasted image 20241104182645.png",
-    "attachments/Pasted image 20241104182625.png",
-    "attachments/Pasted image 20241104182545.png",
-    "attachments/Pasted image 20241104182511.png",
-    "attachments/Pasted image 20241104182502.png",
-    "attachments/Pasted image 20241104182435.png",
-    "attachments/Pasted image 20241104182428.png",
-    "attachments/Pasted image 20241104181047.png",
-    "attachments/Pasted image 20241104180950.png",
-    "attachments/Pasted image 20241104180929.png",
-    "IUS/IUS.md",
-    "IUS/lectures/6. Architektonické vzory.md",
-    "IZP/IZP.md",
-    "IZP/lectures/8b. Algoritmy pro práci s vektory a s maticemi.md",
-    "IZP/lectures/8. Algoritmy pro numerické výpočty.md",
-    "IEL/lectures/8. Unipolární tranzistory.md",
-    "IUS/practises/3. Class.md",
-    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
-    "IEL/lectures/2. Měření elektrických veličin.md",
+    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
-    "IDM/lectures/6. Relace.md",
+    "index.md",
+    "IUS/IUS.md",
+    "IUS/practises/4. diagram interakce.md",
     "IUS/info.md",
-    "IUS/lectures/3. ERD.md",
+    "IUS/practises/attachments/Pasted image 20241112141000.png",
+    "IUS/practises/attachments/Pasted image 20241112140946.png",
+    "IUS/practises/attachments/Pasted image 20241112140856.png",
+    "IUS/practises/attachments/Pasted image 20241112140844.png",
+    "IEL/lectures/2. Měření elektrických veličin.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IUS/lectures/8. Modely životního cyklu, metodiky vývoje SW.md",
+    "IUS/lectures/attachments/Pasted image 20241111184918.png",
+    "IUS/lectures/attachments/Pasted image 20241111184606.png",
+    "IUS/lectures/attachments/Pasted image 20241111184328.png",
+    "IUS/lectures/attachments/Pasted image 20241111184303.png",
+    "IUS/lectures/attachments/Pasted image 20241111184249.png",
+    "IUS/lectures/attachments/Pasted image 20241111184237.png",
+    "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
+    "IUS/lectures/attachments/IUS08_iterativni_modely_agilni_metodiky.pdf",
+    "IZP/lectures/7.  Implementace SW.md",
+    "IZP/IZP.md",
+    "IZP/lectures/9b. Ladění programů.md",
+    "IZP/lectures/9. Řazení.md",
+    "IZP/lectures/8c. Algoritmy pro vyhledávání a řazení.md",
+    "IZP/lectures/8d. Dynamic memory.md",
+    "IEL/lectures/9. Střídavý proud.md",
+    "ILG/ILG.md",
+    "ILG/Info.md",
+    "ILG/practise/ILG osmé.md",
+    "ILG/practise/attachments/PiataSada.pdf",
+    "IDM/IDM.md",
+    "IDM/lectures/6. Relace.md",
+    "IUS/practises/3. Class.md",
+    "ILG/practise/ILG  Čtvrté.md",
+    "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
     "IUS/lectures/attachments/IUS03.pdf",
-    "IDM/practice/Osmé cvičení.md",
-    "IUS/practises/Domácí úloha notes.md",
-    "IDM/practice/Druhé cvičení.md",
-    "IDM/practice/První cvičení - IDM.md",
-    "IDM/lectures/5. Potenční množina, princip inkluzie exkluzie.md",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "IZP/Info.md",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
     "IZP/seminars/attachments",
     "IUS/lectures/attachments/IUS06.pdf",
     "attachments",
     "IZP/exams/attachments",
     "IZP/exams",
-    "IUS/attachments/IUS01.pdf",
-    "IUS/attachments/IUS04.pdf",
     "Untitled.canvas"
   ]
 }

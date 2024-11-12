@@ -13,6 +13,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281030
 - [[5. Polovodiče]]
 - [[6. Tranzistory]]
 - [[8. Unipolární tranzistory]]
+- [[9. Střídavý proud]]
 ## Semináře
 - [[2. - řešení obvodů pomocí SLAR]]
 
