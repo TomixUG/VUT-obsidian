@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IEL/IEL.md",
+                "file": "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IEL"
+              "title": "1. Základní pojmy a veličiny v el. obvodech"
             }
           },
           {
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 210.5,
+    "collapsed": true
   },
   "right": {
     "id": "ee5af1b6e536e4af",
@@ -211,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IEL/IEL.md",
+                "file": "IZP/lectures/9b. Ladění programů.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IEL"
+              "title": "Outgoing links from 9b. Ladění programů"
             }
           },
           {
@@ -267,36 +268,37 @@
   },
   "active": "606a71c63fcb1b31",
   "lastOpenFiles": [
-    "IEL/Info.md",
     "IEL/IEL.md",
+    "index.md",
+    "IZP/IZP.md",
+    "IZP/Info.md",
+    "IZP/lectures/9b. Ladění programů.md",
+    "IZP/lectures/attachments/Pasted image 20241113172220.png",
+    "IZP/lectures/attachments/Pasted image 20241113172204.png",
+    "IZP/lectures/attachments/Pasted image 20241113172017.png",
+    "IZP/lectures/attachments/Pasted image 20241113171948.png",
+    "IZP/lectures/attachments/Pasted image 20241113171505.png",
+    "IZP/lectures/attachments/Pasted image 20241113165500.png",
+    "IZP/lectures/attachments/Pasted image 20241113165417.png",
+    "IZP/lectures/attachments/Pasted image 20241113162720.png",
+    "IZP/lectures/attachments/Pasted image 20241113162125.png",
+    "IZP/lectures/attachments/Pasted image 20241113161931.png",
+    "IEL/lectures/9. Střídavý proud.md",
+    "IEL/Info.md",
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
-    "index.md",
     "IUS/IUS.md",
     "IUS/practises/4. diagram interakce.md",
     "IUS/info.md",
-    "IUS/practises/attachments/Pasted image 20241112141000.png",
-    "IUS/practises/attachments/Pasted image 20241112140946.png",
-    "IUS/practises/attachments/Pasted image 20241112140856.png",
-    "IUS/practises/attachments/Pasted image 20241112140844.png",
     "IEL/lectures/2. Měření elektrických veličin.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "IUS/lectures/8. Modely životního cyklu, metodiky vývoje SW.md",
-    "IUS/lectures/attachments/Pasted image 20241111184918.png",
-    "IUS/lectures/attachments/Pasted image 20241111184606.png",
-    "IUS/lectures/attachments/Pasted image 20241111184328.png",
-    "IUS/lectures/attachments/Pasted image 20241111184303.png",
-    "IUS/lectures/attachments/Pasted image 20241111184249.png",
-    "IUS/lectures/attachments/Pasted image 20241111184237.png",
     "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
     "IUS/lectures/attachments/IUS08_iterativni_modely_agilni_metodiky.pdf",
     "IZP/lectures/7.  Implementace SW.md",
-    "IZP/IZP.md",
-    "IZP/lectures/9b. Ladění programů.md",
     "IZP/lectures/9. Řazení.md",
     "IZP/lectures/8c. Algoritmy pro vyhledávání a řazení.md",
     "IZP/lectures/8d. Dynamic memory.md",
-    "IEL/lectures/9. Střídavý proud.md",
     "ILG/ILG.md",
     "ILG/Info.md",
     "ILG/practise/ILG osmé.md",
@@ -304,7 +306,6 @@
     "IDM/IDM.md",
     "IDM/lectures/6. Relace.md",
     "IUS/practises/3. Class.md",
-    "ILG/practise/ILG  Čtvrté.md",
     "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
     "IUS/lectures/attachments/IUS03.pdf",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
