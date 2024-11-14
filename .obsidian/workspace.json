@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IEL/lectures/2. Měření elektrických veličin.md",
+                "file": "IEL/lectures/3. Kondenzátory a cívky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Měření elektrických veličin"
+              "title": "3. Kondenzátory a cívky"
             }
           },
           {
@@ -269,6 +269,7 @@
   "active": "606a71c63fcb1b31",
   "lastOpenFiles": [
     "IEL/IEL.md",
+    "IEL/lectures/2. Měření elektrických veličin.md",
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
@@ -291,7 +292,6 @@
     "IUS/IUS.md",
     "IUS/practises/4. diagram interakce.md",
     "IUS/info.md",
-    "IEL/lectures/2. Měření elektrických veličin.md",
     "IUS/lectures/8. Modely životního cyklu, metodiky vývoje SW.md",
     "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
     "IUS/lectures/attachments/IUS08_iterativni_modely_agilni_metodiky.pdf",
