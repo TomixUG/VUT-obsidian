@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IEL/lectures/3. Kondenzátory a cívky.md",
+                "file": "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Kondenzátory a cívky"
+              "title": "4. Přechodové jevy na RC, RL, RLC a vedení"
             }
           },
           {
@@ -268,10 +268,11 @@
   },
   "active": "606a71c63fcb1b31",
   "lastOpenFiles": [
+    "IEL/lectures/attachments/Pasted image 20241114172533.png",
     "IEL/IEL.md",
+    "IEL/lectures/3. Kondenzátory a cívky.md",
     "IEL/lectures/2. Měření elektrických veličin.md",
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
-    "IEL/lectures/3. Kondenzátory a cívky.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "index.md",
     "IZP/IZP.md",
@@ -305,7 +306,6 @@
     "ILG/practise/attachments/PiataSada.pdf",
     "IDM/IDM.md",
     "IDM/lectures/6. Relace.md",
-    "IUS/practises/3. Class.md",
     "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
     "IUS/lectures/attachments/IUS03.pdf",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
