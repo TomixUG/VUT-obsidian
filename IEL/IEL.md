@@ -22,3 +22,6 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281030
 
 ## Projekt
 https://moodle.vut.cz/pluginfile.php/899503/mod_label/intro/IEL_zadani_2024.pdf
+
+### Midterm
+[[IEL Midterm]]
