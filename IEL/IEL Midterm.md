@@ -10,3 +10,5 @@ Links: [[IEL]]
 ![[E2.jpg]]
 
 ![[16.11.2020-11-15-48.png]]
+![[Pasted image 20241116125321.png]]
+![[Pasted image 20241116125329.png]]
