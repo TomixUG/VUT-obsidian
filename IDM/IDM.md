@@ -19,3 +19,4 @@ Hliněná: https://www.umat.fekt.vut.cz/~hlinena/vyuka-IDM.html
 1. [[První cvičení - IDM]]
 2. [[Druhé cvičení]]
 3. [[Osmé cvičení]]
+4. [[Deváté cvičení]]

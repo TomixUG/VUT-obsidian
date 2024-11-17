@@ -11,38 +11,14 @@
             "id": "f9be8ced7d48e1ec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "IUS/attachments/IUS01.pdf",
-                "page": 1,
-                "left": 162,
-                "top": -75,
-                "zoom": 0.32
+                "file": "IDM/lectures/6. Relace.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "IUS01"
-            }
-          }
-        ]
-      },
-      {
-        "id": "03c211daa84cdc88",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9e88f63fcc1fb67",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ILG/practise/attachments/PiataSada.pdf",
-                "page": 2,
-                "left": 114,
-                "top": 683,
-                "zoom": 0.88
-              },
-              "icon": "lucide-file-text",
-              "title": "PiataSada"
+              "icon": "lucide-file",
+              "title": "6. Relace"
             }
           }
         ]
@@ -55,14 +31,16 @@
             "id": "72b63d6c8f059982",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "IEL/lectures/2. Měření elektrických veličin.md",
-                "mode": "source",
-                "source": false
+                "file": "IDM/practice/attachments/Piata_Sada.pdf",
+                "page": 1,
+                "left": 113,
+                "top": 525,
+                "zoom": 1.17
               },
-              "icon": "lucide-file",
-              "title": "2. Měření elektrických veličin"
+              "icon": "lucide-file-text",
+              "title": "Piata_Sada"
             }
           }
         ]
@@ -139,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IEL/lectures/2. Měření elektrických veličin.md",
+            "file": "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -196,50 +174,50 @@
   },
   "active": "72b63d6c8f059982",
   "lastOpenFiles": [
+    "IDM/lectures/6. Relace.md",
+    "IDM/IDM.md",
+    "index.md",
+    "IUS/attachments/IUS01.pdf",
+    "IDM/practice/attachments/Piata_Sada.pdf",
+    "IDM/practice/Deváté cvičení.md",
+    "ILG/ILG.md",
+    "ILG/practise/ILG osmé.md",
     "IEL/IEL.md",
+    "IEL/lectures/5. Polovodiče.md",
+    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
+    "IEL/Info.md",
+    "IEL/lectures/3. Kondenzátory a cívky.md",
+    "IEL/attachments/Pasted image 20241116220826.png",
+    "IEL/attachments/Pasted image 20241116214049.png",
+    "IEL/attachments/Pasted image 20241116210018.png",
+    "IEL/attachments/Pasted image 20241116205916.png",
+    "IEL/attachments/Pasted image 20241116205432.png",
+    "IEL/lectures/2. Měření elektrických veličin.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IUS/IUS.md",
+    "IUS/info.md",
     "IEL/IEL Midterm.md",
     "IEL/attachments/16.11.2020-11-15-48.png",
     "IEL/attachments/E2.jpg",
     "IEL/attachments/E1.jpg",
     "IEL/attachments/C2.jpg",
     "IEL/attachments/C1.jpg",
-    "IEL/attachments/B2.jpg",
-    "IEL/attachments/B1.jpg",
     "IEL/attachments",
-    "index.md",
-    "IEL/lectures/5. Polovodiče.md",
-    "IDM/IDM.md",
     "IDM/practice/Osmé cvičení.md",
-    "ILG/ILG.md",
-    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
-    "IUS/IUS.md",
-    "IUS/info.md",
     "IUS/lectures/2.  Modely jazyka UML.md",
     "IUS/lectures/1.  - Co je to softwarové inženýrství.md",
     "IUS/lectures/3. ERD.md",
-    "IZP/lectures/attachments/Pasted image 20241113165500.png",
-    "IZP/lectures/attachments/Pasted image 20241113165417.png",
-    "IZP/lectures/attachments/Pasted image 20241113162720.png",
     "IEL/lectures/9. Střídavý proud.md",
     "IUS/practises/4. diagram interakce.md",
-    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
-    "IEL/lectures/3. Kondenzátory a cívky.md",
-    "IDM/lectures/6. Relace.md",
-    "ILG/practise/ILG osmé.md",
-    "IUS/attachments/IUS01.pdf",
     "ILG/practise/attachments/PiataSada.pdf",
-    "IEL/Info.md",
     "8. Dynamická paměť.md",
     "IZP/IZP.md",
     "IZP/Info.md",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "IDM/lectures/2. Úvod do množin a důkazy.md",
     "IDM/practice/attachments/Druha_Sada.pdf",
     "IZP/exams/attachments",
     "IZP/exams",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
     "IZP/lectures/attachments/5s_ukazatel-pole-funkce.pdf",
-    "IDM/practice/attachments/attachments/Prva_Sada.pdf",
-    "IDM/practice/attachments/attachments"
+    "IDM/practice/attachments/attachments/Prva_Sada.pdf"
   ]
 }
