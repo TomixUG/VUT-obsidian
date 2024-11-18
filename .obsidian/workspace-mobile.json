@@ -25,13 +25,18 @@
             "id": "8f16235b65d6ccd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b77a7ed4f5f07fe2",
@@ -44,10 +49,10 @@
               "type": "pdf",
               "state": {
                 "file": "IDM/practice/attachments/Piata_Sada.pdf",
-                "page": 3,
-                "left": 89,
-                "top": 521,
-                "zoom": 0.99
+                "page": 1,
+                "left": 87,
+                "top": 723,
+                "zoom": 0.83
               },
               "icon": "lucide-file-text",
               "title": "Piata_Sada"
@@ -182,17 +187,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72b63d6c8f059982",
+  "active": "8f16235b65d6ccd7",
   "lastOpenFiles": [
-    "IDM/lectures/6. Relace.md",
-    "IDM/practice/attachments/Piata_Sada.pdf",
-    "IDM/lectures/attachments/IMG_20241118_124731847.jpg",
-    "index.md",
-    "IDM/practice/Deváté cvičení.md",
     "IDM/IDM.md",
+    "IDM/lectures/6. Relace.md",
+    "IDM/practice/Deváté cvičení.md",
+    "IDM/practice/attachments/IMG_20241118_211654950.jpg",
+    "IDM/practice/attachments/IMG_20241118_204301476.jpg",
+    "IDM/practice/attachments/IMG_20241118_203137590.jpg",
+    "IDM/practice/attachments/IMG_20241118_202346482.jpg",
+    "index.md",
     "IEL/IEL.md",
-    "IEL/IEL Midterm.md",
     "IEL/Info.md",
+    "IDM/practice/attachments/Piata_Sada.pdf",
+    "Untitled.canvas",
+    "IDM/lectures/attachments/IMG_20241118_124731847.jpg",
+    "IEL/IEL Midterm.md",
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
@@ -208,10 +218,6 @@
     "IEL/lectures/2. Měření elektrických veličin.md",
     "IUS/IUS.md",
     "IUS/info.md",
-    "IEL/attachments/16.11.2020-11-15-48.png",
-    "IEL/attachments/E2.jpg",
-    "IEL/attachments/E1.jpg",
-    "IEL/attachments/C2.jpg",
     "IEL/attachments",
     "IDM/practice/Osmé cvičení.md",
     "IUS/lectures/2.  Modely jazyka UML.md",

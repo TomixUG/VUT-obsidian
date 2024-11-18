@@ -15,6 +15,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281002#section-0
 - [[6. Architektonické vzory]]
 - [[7.  Implementace SW]]
 - [[8. Modely životního cyklu, metodiky vývoje SW]]
+- [[9. Scrum]]
 
 ## Semináře
 
