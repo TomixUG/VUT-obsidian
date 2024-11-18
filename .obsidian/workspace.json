@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10a - Rekurze.md",
+                "file": "IZP/lectures/10a - Rekurze.md",
                 "mode": "source",
                 "source": false
               },
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 204.51103591918945
   },
   "right": {
     "id": "ee5af1b6e536e4af",
@@ -211,8 +210,12 @@
   },
   "active": "606a71c63fcb1b31",
   "lastOpenFiles": [
+    "IZP/lectures/attachments/Pasted image 20241118144439.png",
+    "IZP/lectures/attachments/Pasted image 20241118144401.png",
+    "IZP/lectures/attachments/Pasted image 20241118143213.png",
+    "Untitled.md",
+    "IZP/lectures/10a - Rekurze.md",
     "IZP/IZP.md",
-    "10a - Rekurze.md",
     "index.md",
     "IEL/IEL.md",
     "IEL/IEL Midterm.md",
@@ -238,19 +241,15 @@
     "IDM/lectures/attachments/Pasted image 20241116151041.png",
     "IDM/lectures/attachments/Pasted image 20241116150909.png",
     "IEL/attachments/Pasted image 20241116125329.png",
-    "IEL/attachments/Pasted image 20241116125321.png",
     "IZP/Info.md",
     "IUS/practises/Domácí úloha notes.md",
-    "Untitled.md",
     "ILG/practise/attachments/PiataSada.pdf",
-    "IEL/attachments/C1.jpg",
     "IEL/attachments",
     "IEL/Info.md",
     "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "IEL/lectures/5. Polovodiče.md",
     "IEL/lectures/6. Tranzistory.md",
     "IZP/lectures/9b. Ladění programů.md",
-    "IEL/lectures/9. Střídavý proud.md",
     "IUS/lectures/attachments/IUS08_iterativni_modely_agilni_metodiky.pdf",
     "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
     "IUS/lectures/attachments/IUS03.pdf",
