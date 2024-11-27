@@ -13,12 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IUS/lectures/9. Scrum.md",
+                "file": "IZP/lectures/10a - Rekurze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Scrum"
+              "title": "10a - Rekurze"
+            }
+          },
+          {
+            "id": "3036423ec4bfcf1d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ILG/practise/attachments/06_sada (5).pdf",
+                "page": 1,
+                "left": -8,
+                "top": 66,
+                "zoom": 1.7903459907673083
+              },
+              "icon": "lucide-file-text",
+              "title": "06_sada (5)"
+            }
+          },
+          {
+            "id": "e6b4d926805a539b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ILG/practise/attachments/PiataSada.pdf",
+                "page": 2,
+                "left": -8,
+                "top": 414,
+                "zoom": 1.7903339604891817
+              },
+              "icon": "lucide-file-text",
+              "title": "PiataSada"
             }
           },
           {
@@ -27,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IEL/lectures/2. Měření elektrických veličin.md",
+                "file": "IEL/IEL Midterm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Měření elektrických veličin"
+              "title": "IEL Midterm"
             }
           },
           {
@@ -55,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/IDM.md",
+                "file": "IDM/lectures/6. Relace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDM"
+              "title": "6. Relace"
             }
           }
         ]
@@ -210,52 +242,52 @@
   },
   "active": "606a71c63fcb1b31",
   "lastOpenFiles": [
-    "IDM/practice/attachments/IMG_20241118_202346482.jpg",
-    "IDM/practice/attachments/IMG_20241118_204301476.jpg",
-    "IDM/practice/attachments/IMG_20241118_203137590.jpg",
-    "IDM/practice/attachments/IMG_20241118_211654950.jpg",
-    "IUS/lectures/attachments/Pasted image 20241118184820.png",
-    "IUS/lectures/attachments/Pasted image 20241118184811.png",
-    "IUS/lectures/attachments/Pasted image 20241118184802.png",
-    "IUS/lectures/attachments/Pasted image 20241118184755.png",
-    "IUS/lectures/attachments/Pasted image 20241118183511.png",
-    "IUS/lectures/attachments/Pasted image 20241118183145.png",
-    "IUS/lectures/attachments/Pasted image 20241118182817.png",
-    "IUS/IUS.md",
-    "index.md",
-    "IUS/lectures/9. Scrum.md",
-    "IUS/lectures/8. Modely životního cyklu, metodiky vývoje SW.md",
-    "IUS/lectures/attachments/IUS08_iterativni_modely_agilni_metodiky.pdf",
-    "IEL/IEL.md",
-    "IEL/lectures/2. Měření elektrických veličin.md",
-    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
-    "IEL/lectures/9. Střídavý proud.md",
-    "IZP/lectures/10a - Rekurze.md",
-    "Untitled.md",
+    "IZP/lectures/attachments/Pasted image 20241127161048.png",
     "IZP/IZP.md",
-    "IEL/IEL Midterm.md",
-    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
+    "IZP/lectures/10a - Rekurze.md",
+    "IZP/lectures/11 - Dynamické datové struktury.md",
+    "index.md",
+    "IEL/IEL.md",
+    "IEL/lectures/10. Operační zesilovače.md",
+    "IEL/lectures/attachments/Pasted image 20241127145144.png",
+    "IEL/lectures/attachments/Pasted image 20241127144926.png",
+    "IEL/lectures/attachments/Pasted image 20241127144415.png",
+    "attachments/IMG_20241127_133952578.jpg",
+    "ILG 11. Přednáška/cviko.md",
+    "ILG/practise/ILG 11. Přednáška cviko.md",
+    "ILG 11. Přednáška",
+    "IEL/lectures/attachments/Pasted image 20241127143049.png",
+    "IEL/lectures/attachments/Pasted image 20241127142747.png",
+    "IEL/lectures/attachments/Pasted image 20241127142246.png",
+    "IEL/lectures/attachments/Pasted image 20241127140410.png",
+    "IUS/IUS.md",
+    "IUS/lectures/10. Lidé, intelektuální vlastníctví, etický kodex.md",
+    "attachments/Pasted image 20241125163727.png",
+    "attachments/Pasted image 20241125163719.png",
+    "IZP/seminars/2. makefile, cykly, string.md",
+    "ILG/ILG.md",
+    "ILG/practise/ILG osmé.md",
+    "ILG/practise/attachments/PiataSada.pdf",
+    "ILG/practise/attachments/06_sada (5).pdf",
+    "ILG/practise/ILG jedenácté.md",
+    "IDM/lectures/6. Relace.sync-conflict-20241124-154122-7BMYXAN.md",
+    "ILG jedenácté.md",
+    "IDM/lectures/6. Relace.sync-conflict-20241124-143951-7BMYXAN.md",
+    "IDM/lectures/6. Relace.md",
+    "IUS/lectures/9. Scrum.md",
     "IDM/IDM.md",
     "IDM/practice/Deváté cvičení.md",
     "IDM/practice/attachments/Piata_Sada.pdf",
-    "IUS/info.md",
-    "IDM/lectures/6. Relace.md",
-    "IZP/seminars/3. průchody polem.md",
-    "IZP/seminars/4. STD IO.md",
-    "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
-    "IZP/lectures/8d. Dynamic memory.md",
-    "IEL/lectures/3. Kondenzátory a cívky.md",
+    "IEL/IEL Midterm.md",
+    "IEL/lectures/2. Měření elektrických veličin.md",
+    "IUS/lectures/8. Modely životního cyklu, metodiky vývoje SW.md",
+    "IUS/lectures/attachments/IUS08_iterativni_modely_agilni_metodiky.pdf",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
     "IZP/lectures/attachments/Piata_Sada.pdf",
-    "IZP/Info.md",
-    "IUS/practises/Domácí úloha notes.md",
-    "ILG/practise/attachments/PiataSada.pdf",
     "IEL/attachments",
-    "IEL/Info.md",
     "IUS/attachments/IUS_ERD_zk_2017_1.pdf",
     "IUS/lectures/attachments/IUS03.pdf",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
-    "IZP/seminars/attachments",
-    "IUS/lectures/attachments/IUS06.pdf",
     "Untitled.canvas"
   ]
 }

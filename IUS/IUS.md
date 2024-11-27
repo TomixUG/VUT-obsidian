@@ -16,6 +16,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281002#section-0
 - [[7.  Implementace SW]]
 - [[8. Modely životního cyklu, metodiky vývoje SW]]
 - [[9. Scrum]]
+- [[10. Lidé, intelektuální vlastníctví, etický kodex]]
 
 ## Semináře
 

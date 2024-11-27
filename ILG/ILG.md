@@ -18,3 +18,5 @@ prezentace: https://www.umat.fekt.vut.cz/~hlinena/ILG/Prednasky/
 - [[ILG Druhé cvičení ]]
 - [[ILG  Čtvrté]]
 - [[ILG osmé]]
+- [[ILG jedenácté]]
+- [[ILG 11. Přednáška cviko]]

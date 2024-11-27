@@ -48,3 +48,35 @@ Lineární jednosměrně vázaný seznam
 	- výsledek funkce (když vrací hodnotu)
 	- informace pro správný návrat z funkce
 - toto se jmenuje **aktivační záznam funkce**
+
+### Zásobník
+- typická velikost několik MB
+- Každá iterace rekurze zabírá paměť zásobníku, může se přeplnit
+
+## Druhy rekurzí
+#### Přímá reukze
+- ve svém těle volá sama sebe
+#### Nepřímá rekurze
+- A volá B
+- B volá C
+- C volá A
+- **NEPOUŽÍVAT NIKDY!!! Lol**
+
+## zkouška
+- máme funkci, jaká bude hodnota parametru proměnných
+- NEBO vyřešte nějaký problém pomocí přímé rekurzivní funkce
+
+## Fibonacci
+![[Pasted image 20241127161048.png]]
+
+
+Můžeme použít windows z arraye, pouze část arraye, Window.
+implementace tohoto algoritmu bez rekurze je o dost efektivnější
+
+
+# Buffer
+- abychom maximalizovali rychlost
+- aby někdo nečekal na někoho jiného
+- první zpracovává a druhý může zároveň zpracovávat
+- **minimalizovat čekání**
+- 
