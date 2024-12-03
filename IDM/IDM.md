@@ -20,3 +20,5 @@ Hliněná: https://www.umat.fekt.vut.cz/~hlinena/vyuka-IDM.html
 2. [[Druhé cvičení]]
 3. [[Osmé cvičení]]
 4. [[Deváté cvičení]]
+
+[[IDM Opakování na test]]

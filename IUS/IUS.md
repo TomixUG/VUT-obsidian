@@ -18,6 +18,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281002#section-0
 - [[9. Scrum]]
 - [[10. Lidé, intelektuální vlastníctví, etický kodex]]
 
+[[IUS ZKOUŠKA]]
 ## Semináře
 
 ## Cvičení

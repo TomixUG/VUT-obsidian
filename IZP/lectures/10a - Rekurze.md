@@ -54,7 +54,7 @@ Lineární jednosměrně vázaný seznam
 - Každá iterace rekurze zabírá paměť zásobníku, může se přeplnit
 
 ## Druhy rekurzí
-#### Přímá reukze
+#### Přímá rekurze
 - ve svém těle volá sama sebe
 #### Nepřímá rekurze
 - A volá B
@@ -80,3 +80,13 @@ implementace tohoto algoritmu bez rekurze je o dost efektivnější
 - první zpracovává a druhý může zároveň zpracovávat
 - **minimalizovat čekání**
 - 
+
+### Memoizace
+- technika urychlení
+- když některé funkce voláme příliš často nad stejnými parametry
+- zapamatujeme si výsledky funkce pro určité parametry do bufferu
+- můžeme použít pro fibonaciho posloupnost, obohatíme ji o funkci s tímto bufferem
+
+pro fibonnaciho posloupnost:
+![[Pasted image 20241127165432.png|350]]
+- extrémní zrychlení
