@@ -16,6 +16,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281030
 - [[9. Střídavý proud]]
 - [[10. Operační zesilovače]]
 - [[11. Zdroje obvodů]]
+- [[11b. Kmitající obvody]]
 ## Semináře
 - [[2. - řešení obvodů pomocí SLAR]]
 
