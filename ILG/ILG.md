@@ -20,3 +20,6 @@ prezentace: https://www.umat.fekt.vut.cz/~hlinena/ILG/Prednasky/
 - [[ILG osmé]]
 - [[ILG jedenácté]]
 - [[ILG 11. Přednáška cviko]]
+
+
+[[OPAKOVÁNÍ NA ILG ZKOUŠKU]]

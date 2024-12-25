@@ -17,6 +17,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281030
 - [[10. Operační zesilovače]]
 - [[11. Zdroje obvodů]]
 - [[11b. Kmitající obvody]]
+- [[12. Číslicová elektronika]]
 ## Semináře
 - [[2. - řešení obvodů pomocí SLAR]]
 

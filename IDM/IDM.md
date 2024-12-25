@@ -12,6 +12,8 @@ Hliněná: https://www.umat.fekt.vut.cz/~hlinena/vyuka-IDM.html
 - [[3. Důkazy]]
 - [[5. Potenční množina, princip inkluzie exkluzie]]
 - [[6. Relace]]
+- [[Grafy]]
+-  [[Operace]]
 ## Semináře
 
 ## Cvičení

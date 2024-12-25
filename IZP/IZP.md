@@ -23,6 +23,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=280953&section=2#module-451478
 - [[9b. Ladění programů]]
 - [[10a - Rekurze]]
 - [[11 - Dynamické datové struktury]]
+-  [[12 - Modulární stavba programů]]
 
 [[Opakování IZP]]
 ## Semináře
@@ -36,5 +37,6 @@ Moodle: https://moodle.vut.cz/course/view.php?id=280953&section=2#module-451478
 - [[3. řetězce]]
 - [[5. Files, structs]]
 - [[8. Dynamická paměť]]
+-  [[13. Abstraktní typy]]
 ### exams
 [[midterm]]
