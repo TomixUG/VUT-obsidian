@@ -92,3 +92,7 @@ Grupoid
 # Homomorfizmy
 - Injektivný homomorfizmus
 	- každému áčku 
+
+# Kongurencie
+![[Pasted image 20241226143516.png]]
+- Relace **musí být ekvivalence**

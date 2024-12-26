@@ -14,6 +14,7 @@ Hliněná: https://www.umat.fekt.vut.cz/~hlinena/vyuka-IDM.html
 - [[6. Relace]]
 - [[Grafy]]
 -  [[Operace]]
+- [[Svazy]]
 ## Semináře
 
 ## Cvičení

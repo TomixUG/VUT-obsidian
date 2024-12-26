@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IUS/lectures/4. OOP.md",
+                "file": "IDM/lectures/Operace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. OOP"
+              "title": "Operace"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,11 +195,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "606a71c63fcb1b31",
+  "active": "d8619b389a098eeb",
   "lastOpenFiles": [
+    "IDM/exam_prep/exams/Idm-23-q.pdf.part",
     "IDM/IDM.md",
-    "IDM/lectures/Operace.md",
     "IDM/lectures/6. Relace.md",
+    "IDM/lectures/Grafy.md",
+    "IDM/lectures/Operace.md",
+    "index.md",
+    "IUS/IUS.md",
+    "IUS/lectures/4. OOP.md",
+    "IDM/exam_prep/exams/Idm-23-q.pdf",
+    "Svazy.md",
+    "IDM/exam_prep/exams/Idm-23-p.pdf.part",
+    "attachments/Pasted image 20241226183149.png",
+    "IDM/lectures/attachments/Pasted image 20241226143516.png",
+    "IEL/IEL.md",
+    "IEL/Info.md",
     "IDM/exam_prep/exams/Idm-23-p.pdf",
     "IDM/exam_prep/exams",
     "IDM/exam_prep/07_sada.pdf.part",
@@ -210,13 +223,7 @@
     "IDM/lectures/attachments/Pasted image 20241224155747.png",
     "IDM/lectures/attachments/Pasted image 20241224155307.png",
     "IDM/lectures/attachments/Pasted image 20241224154827.png",
-    "IDM/lectures/attachments/Pasted image 20241223224618.png",
-    "IDM/lectures/attachments/Pasted image 20241223223047.png",
-    "IDM/lectures/Grafy.md",
     "IDM/exam_prep/06_sada.pdf.part",
-    "index.md",
-    "IUS/lectures/4. OOP.md",
-    "IUS/IUS.md",
     "IUS/lectures/3. ERD.md",
     "IUS/lectures/5. UML, OCL, Návhrové vzory.md",
     "ILG/ILG.md",
@@ -228,19 +235,13 @@
     "IDM/lectures/attachments/2._Prednaska_24._9._2024.pdf",
     "IDM/exam_prep/01_sada.pdf.part",
     "IDM/exam_prep/08_sada.pdf",
-    "IDM/exam_prep/07_sada.pdf",
-    "IDM/exam_prep/06_sada.pdf",
-    "IDM/exam_prep/05_sada.pdf",
     "IZP/IZP.md",
     "13. Abstraktní typy.md",
     "IZP/lectures/12 - Modulární stavba programů.md",
     "IZP/exams/Opakování IZP.md",
-    "IEL/IEL.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
     "ILG/practise/ILG osmé.md",
     "IEL/lectures/12. Číslicová elektronika.md",
-    "IEL/IEL Midterm.md",
-    "IEL/Info.md",
     "Untitled.canvas"
   ]
 }
