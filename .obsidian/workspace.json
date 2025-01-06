@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
+                "file": "IZP/lectures/5 - Testování a ladění.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4b - Výčtový typ, strukturované datové typy"
+              "title": "5 - Testování a ladění"
             }
           },
           {
@@ -183,16 +183,16 @@
   },
   "active": "e80962f2c79ebc86",
   "lastOpenFiles": [
-    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
+    "IZP/lectures/5 - Testování a ladění.md",
     "term.md",
     "IZP/IZP.md",
+    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
     "IZP/lectures/4 - pole.md",
     "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
     "IZP/lectures/2c - řídící struktury v programování.md",
     "IZP/lectures/2b - řídící struktury v programování.md",
     "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
     "IZP/lectures/1 - Vývojové nástroje.md",
-    "IZP/lectures/5 - Testování a ladění.md",
     "IZP/exams/Opakování IZP.md",
     "IZP/lectures/12 - Modulární stavba programů.md",
     "index.md",

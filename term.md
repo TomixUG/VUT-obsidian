@@ -314,7 +314,7 @@ d.b = 10;
 - když je struct pointer přistupujeme k jednotlivým prvkům pomocí šipky
 	- `->`
 	- ta automaticky provede dereferenci
-		- (ekvivalentní zápis jako `*(ptr).element` vs `ptr->element` )
+		- (ekvivalentní zápis jako `*(ptr).element` narozdíl od `ptr->element` )
 ```c
 typedef struct {
 	int a;
@@ -369,6 +369,8 @@ int main() {
 ```c
 Data *d = malloc(sizeof(Data));
 ```
+
+
 # Teorie
 
 ## Bugy
@@ -416,3 +418,19 @@ Jak jsou bity zakódované, co znamenají ty 1 a 0
 	- **statické proměnné, které se nemění**
 - kódová oblast
 	- obsahuje instrukce programu
+
+
+## Postup ladění
+1. Reprodukce (hledání vstupních dat, bug report)
+2. Diagnóza
+3. Oprava (bug fix)
+4. Intergrace (fix test, commit)
+
+#### Techniky ladění
+- Statická analýza
+	- čtu kód očima
+- Dynamická analýza
+	- **záznam sekvence** 
+		- printy
+	- **interaktivní** 
+		- debugger
