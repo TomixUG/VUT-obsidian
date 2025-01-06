@@ -16,7 +16,7 @@ POLE x, y, z;
 ```
 
 
-```c
+c
 # 
 typedef double (*FUN) (double, int);
 FUN f1, f2;

@@ -22,6 +22,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281030
 - [[2. - řešení obvodů pomocí SLAR]]
 
 
+[[Zkouška IEL]]
 ## Cvičení
 
 ## Projekt

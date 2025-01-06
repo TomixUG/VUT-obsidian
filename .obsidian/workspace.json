@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "27668670e54d9107",
+        "id": "feffb5eaf71f797f",
         "type": "tabs",
         "children": [
           {
-            "id": "606a71c63fcb1b31",
+            "id": "c6d9417c7bc72a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/lectures/Grafy.md",
+                "file": "IZP/lectures/5 - Testování a ladění.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grafy"
+              "title": "5 - Testování a ladění"
             }
           },
           {
-            "id": "d8619b389a098eeb",
+            "id": "e80962f2c79ebc86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDM/lectures/Operace.md",
+                "file": "term.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operace"
-            }
-          },
-          {
-            "id": "f2d083404fe3eb0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "term"
             }
           }
         ],
@@ -141,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IZP/lectures/9b. Ladění programů.md",
+                "file": "term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9b. Ladění programů"
+              "title": "Outgoing links from term"
             }
           },
           {
@@ -195,53 +181,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d8619b389a098eeb",
+  "active": "e80962f2c79ebc86",
   "lastOpenFiles": [
-    "IDM/exam_prep/exams/Idm-23-q.pdf.part",
+    "IZP/lectures/5 - Testování a ladění.md",
+    "term.md",
+    "IZP/IZP.md",
+    "IZP/exams/Opakování IZP.md",
+    "IZP/lectures/12 - Modulární stavba programů.md",
+    "index.md",
+    "IEL/IEL.md",
+    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
+    "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
+    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
+    "IZP/lectures/1 - Vývojové nástroje.md",
+    "IEL/Zkouška IEL.md",
+    "attachments/Pasted image 20250106014829.png",
+    "attachments/Pasted image 20250106014711.png",
+    "attachments/Pasted image 20250106014505.png",
+    "IEL/lectures/6. Tranzistory.md",
+    "attachments/Pasted image 20250106013424.png",
+    "attachments/Pasted image 20250106012953.png",
+    "attachments/Pasted image 20250106012937.png",
+    "attachments/Pasted image 20250106012910.png",
+    "IEL/lectures/9. Střídavý proud.md",
+    "IEL/lectures/10. Operační zesilovače.md",
+    "IEL/lectures/8. Unipolární tranzistory.md",
+    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
+    "attachments/Pasted image 20250106002203.png",
+    "attachments/Pasted image 20250106002151.png",
+    "attachments/Pasted image 20250106002110.png",
+    "IEL/lectures/5. Polovodiče.md",
+    "IEL/lectures/3. Kondenzátory a cívky.md",
+    "IEL/Info.md",
     "IDM/IDM.md",
     "IDM/lectures/6. Relace.md",
-    "IDM/lectures/Grafy.md",
+    "IDM/lectures/IDM Opakování na zkoušku.md",
     "IDM/lectures/Operace.md",
-    "index.md",
-    "IUS/IUS.md",
-    "IUS/lectures/4. OOP.md",
-    "IDM/exam_prep/exams/Idm-23-q.pdf",
-    "Svazy.md",
-    "IDM/exam_prep/exams/Idm-23-p.pdf.part",
-    "attachments/Pasted image 20241226183149.png",
-    "IDM/lectures/attachments/Pasted image 20241226143516.png",
-    "IEL/IEL.md",
-    "IEL/Info.md",
-    "IDM/exam_prep/exams/Idm-23-p.pdf",
-    "IDM/exam_prep/exams",
-    "IDM/exam_prep/07_sada.pdf.part",
-    "IDM/lectures/attachments/Pasted image 20241225191347.png",
-    "IDM/lectures/attachments/Pasted image 20241225151014.png",
-    "IDM/lectures/attachments/Pasted image 20241225134110.png",
-    "IDM/lectures/attachments/Pasted image 20241224155852.png",
-    "IDM/lectures/attachments/Pasted image 20241224155820.png",
-    "IDM/lectures/attachments/Pasted image 20241224155747.png",
-    "IDM/lectures/attachments/Pasted image 20241224155307.png",
-    "IDM/lectures/attachments/Pasted image 20241224154827.png",
-    "IDM/exam_prep/06_sada.pdf.part",
-    "IUS/lectures/3. ERD.md",
+    "IDM/lectures/Grafy.md",
+    "IDM/exam_prep/exams/Idm-24-1b.pdf.part",
+    "IDM/exam_prep/exams/Idm-24-2b.pdf.part",
     "IUS/lectures/5. UML, OCL, Návhrové vzory.md",
-    "ILG/ILG.md",
-    "ILG/practise/OPAKOVÁNÍ NA ILG ZKOUŠKU.md",
-    "IDM/Info.md",
-    "IDM/lectures/3. Důkazy.md",
-    "IDM/lectures/1. - Výrokový a predikátový počet.md",
-    "IDM/lectures/2. Úvod do množin a důkazy.md",
-    "IDM/lectures/attachments/2._Prednaska_24._9._2024.pdf",
-    "IDM/exam_prep/01_sada.pdf.part",
-    "IDM/exam_prep/08_sada.pdf",
-    "IZP/IZP.md",
-    "13. Abstraktní typy.md",
-    "IZP/lectures/12 - Modulární stavba programů.md",
-    "IZP/exams/Opakování IZP.md",
-    "IEL/lectures/3. Kondenzátory a cívky.md",
-    "ILG/practise/ILG osmé.md",
-    "IEL/lectures/12. Číslicová elektronika.md",
+    "IDM/exam_prep/exams/Idm-23-r.pdf.part",
+    "IUS/IUS.md",
+    "IDM/exam_prep/exams/Idm-24-1b.pdf",
+    "IDM/exam_prep/exams/Idm-24-2b.pdf",
+    "IDM/exam_prep/exams/Idm-24-30.1.pdf.part",
+    "IDM/exam_prep/exams/Idm-24-30.1.pdf",
+    "IDM/exam_prep/exams/Idm-23-q.pdf.part",
+    "IDM/exam_prep/exams/Idm-23-r.pdf",
     "Untitled.canvas"
   ]
 }
