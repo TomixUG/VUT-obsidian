@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IZP/lectures/5 - Testování a ladění.md",
+                "file": "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Testování a ladění"
+              "title": "4b - Výčtový typ, strukturované datové typy"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "term"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "term.md",
+                "file": "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from term"
+              "title": "Outgoing links from 4b - Výčtový typ, strukturované datové typy"
             }
           },
           {
@@ -181,19 +181,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e80962f2c79ebc86",
+  "active": "c6d9417c7bc72a03",
   "lastOpenFiles": [
-    "IZP/lectures/5 - Testování a ladění.md",
-    "term.md",
     "IZP/IZP.md",
+    "IZP/lectures/4 - pole.md",
+    "term.md",
+    "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
+    "IZP/lectures/2c - řídící struktury v programování.md",
+    "IZP/lectures/2b - řídící struktury v programování.md",
+    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
+    "IZP/lectures/1 - Vývojové nástroje.md",
+    "IZP/lectures/5 - Testování a ladění.md",
     "IZP/exams/Opakování IZP.md",
     "IZP/lectures/12 - Modulární stavba programů.md",
     "index.md",
     "IEL/IEL.md",
     "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
-    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
-    "IZP/lectures/1 - Vývojové nástroje.md",
     "IEL/Zkouška IEL.md",
     "attachments/Pasted image 20250106014829.png",
     "attachments/Pasted image 20250106014711.png",
@@ -216,13 +220,9 @@
     "IDM/IDM.md",
     "IDM/lectures/6. Relace.md",
     "IDM/lectures/IDM Opakování na zkoušku.md",
-    "IDM/lectures/Operace.md",
-    "IDM/lectures/Grafy.md",
     "IDM/exam_prep/exams/Idm-24-1b.pdf.part",
     "IDM/exam_prep/exams/Idm-24-2b.pdf.part",
-    "IUS/lectures/5. UML, OCL, Návhrové vzory.md",
     "IDM/exam_prep/exams/Idm-23-r.pdf.part",
-    "IUS/IUS.md",
     "IDM/exam_prep/exams/Idm-24-1b.pdf",
     "IDM/exam_prep/exams/Idm-24-2b.pdf",
     "IDM/exam_prep/exams/Idm-24-30.1.pdf.part",

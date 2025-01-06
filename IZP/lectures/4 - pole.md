@@ -37,7 +37,7 @@ const int MAX_POCET_STUDENTU = 9999;
 - musíme dynamicky alokovat do heapu
 ##### Možnost 1
 ```c
-*pic = malloc(...); // ukazuje na první element v array
+*pic = malloc(sizeof(int) * numberofRows * numberofColumns); // ukazuje na první element v array
 
 // pristupovani:
 pic[row * columns + column];
@@ -63,6 +63,7 @@ enum errcodes {ERR_NOER, ERR_PROFF, ERR_PAPER};
 - Když ostatní **POUŽÍVEJ konstanty**!!!!! (enums)
 ![[Pasted image 20241007151350.png|450]]
 - pak se to používá normálně jako int
+
 
 
 ### Předávání parametrů
@@ -96,20 +97,21 @@ int main{
 
 *Předávání ukazatele na hodnotu*:
 ```c
-void swap(float *a, float *b){
-	float tmp = *a;
+void swap(float *a, float *b) {
+  float tmp = *a;
 
-	a* = b*;
-	b* = tmp;
+  *a = *b;
+  *b = tmp;
 }
 
-int main{
-	float x, y;
-	x = 4;
-	y = 8;
+int main() {
+  float x, y;
+  x = 4;
+  y = 8;
 
-	swap(&x, &y);
+  swap(&x, &y);
 }
+
 ```
 - funkce má tzv. VEDLEJŠÍ DŮSLEDKY
 	- a* a b* si vytvoří vlastní adresní prostor vzadu, aby to mohl změnit
