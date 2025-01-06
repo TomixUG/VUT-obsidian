@@ -35,7 +35,8 @@
               "title": "term"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
+                "file": "term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4b - Výčtový typ, strukturované datové typy"
+              "title": "Outgoing links from term"
             }
           },
           {
@@ -181,11 +181,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c6d9417c7bc72a03",
+  "active": "e80962f2c79ebc86",
   "lastOpenFiles": [
+    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
+    "term.md",
     "IZP/IZP.md",
     "IZP/lectures/4 - pole.md",
-    "term.md",
     "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
     "IZP/lectures/2c - řídící struktury v programování.md",
     "IZP/lectures/2b - řídící struktury v programování.md",
@@ -196,7 +197,6 @@
     "IZP/lectures/12 - Modulární stavba programů.md",
     "index.md",
     "IEL/IEL.md",
-    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
     "IEL/Zkouška IEL.md",
     "attachments/Pasted image 20250106014829.png",

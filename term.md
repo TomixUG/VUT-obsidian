@@ -273,6 +273,102 @@ enum errcodes {ERR_NOER, ERR_PROFF, ERR_PAPER};
 		- nekopíruje se
 		- změna hodnoty ve funkci se venku projeví
 
+### Structs
+struktura, ukládá více proměnných v jedné proměnné
+##### Deklarace bez typedef
+- musíme použit slovo struct pro vytvoření instance
+```c
+// klasicka definice
+struct Data {
+	int a;
+	int b;
+	char str[100];
+};
+
+// vytvoreni instance
+struct Data d = {.a = 1, .b = 2, .str = "hello"}; // POUZIVA se slovo struct
+// pristup
+d.a = 10;
+d.b = 10;
+
+```
+
+##### Deklarace s typedef
+- nemusíme použít slovo struct pro vytvoření instance
+```c
+// pomoci typedef
+typedef struct {
+	int a;
+	int b;
+	char str[100];
+} Data;
+
+// vytvoreni instance
+Data d = {.a = 1, .b = 2, .str = "hello"}; // NEPOUZIVA se slovo struct
+d.a = 10;
+d.b = 10;
+
+```
+
+#### Struct a pointers
+- když je struct pointer přistupujeme k jednotlivým prvkům pomocí šipky
+	- `->`
+	- ta automaticky provede dereferenci
+		- (ekvivalentní zápis jako `*(ptr).element` vs `ptr->element` )
+```c
+typedef struct {
+	int a;
+	int b;
+	char str[100];
+} Data;
+
+Data d = {.a = 1, .b = 2, .str = "hello"};
+
+// vytvoreni pointeru
+Data *ptr = &d;
+
+ptr->a = 10;
+ptr->b = 20;
+```
+
+#### Dávání struct jako parametr funkce
+- Celý datový obsah toho structu se **překopíruje**
+	- takže pokud chceme struct ve funkci měnit musíme ho předat jako pointer:
+
+```c
+// ukázka předání structu jako pointer
+
+typedef struct {
+  int a;
+  int b;
+  char str[100];
+} Data;
+
+void doSomething(Data *data) {
+  // TOTO ZMNĚNÍ PŮVODNÍ STRUCT
+  data->a = 691;
+}
+
+int main() {
+  Data d = {.a = 1, .b = 2, .str = "hello"};
+
+  printf("%d", d.a); // 1
+
+  // předání
+  doSomething(&d);
+
+  printf("%d", d.a); // 691
+
+  return 0;
+}
+
+```
+
+#### Dynamická alokace structu
+- normálně do mallocu stačí hodit `sizeof(struct)`. A naalokuje nám celý struct
+```c
+Data *d = malloc(sizeof(Data));
+```
 # Teorie
 
 ## Bugy

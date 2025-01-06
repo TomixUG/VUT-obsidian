@@ -165,3 +165,4 @@ TOsoba c4 = {25, 182, 82.5}
 ```c
 TOsoba = *novyClovek = malloc(sizeof(TOsoba));
 ```
+
