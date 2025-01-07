@@ -210,7 +210,7 @@ char pole[10]; // by default tam hodí nuly or something
 ```
 
 ```c
-char pole[] = {1, 2, 3, 4, 5};
+int pole[] = {1, 2, 3, 4, 5};
 char pole[] = "hello";
 ```
 - vytvoří se pole, poté se nakopírují data
@@ -218,7 +218,7 @@ char pole[] = "hello";
 ```c
 char *p = "hello";
 ```
-- vytvoří se ukazatel na char, ukazuje pouze na `H`.
+- vytvoří se ukazatel na char, ukazuje pouze na `h`.
 #### Pole v poli (2D a více array)
 `char *y[10];`
 - y je pole o 10 prvcích, typu ukazatel na char
@@ -380,7 +380,7 @@ Dvě uvozovky
 - Porovnání stringů
 - pokud se rovnají funkce vrátí jedničku
 ```c
-if(strcmp(argv[1]) == "open"){
+if(strcmp(argv[1], "open") == 0){
 	printf("strings match");
 }
 ```

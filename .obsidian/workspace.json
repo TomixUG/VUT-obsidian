@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IZP/IZP.md",
+                "file": "term.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IZP"
+              "title": "term"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "term.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "term"
+              "title": "index"
             }
           }
         ]
@@ -87,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IZP/IZP.md",
+                "file": "term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IZP"
+              "title": "Outgoing links from term"
             }
           },
           {
@@ -183,14 +182,15 @@
   },
   "active": "c6d9417c7bc72a03",
   "lastOpenFiles": [
-    "IZP/lectures/8d. Dynamic memory.md",
+    "index.md",
     "IZP/IZP.md",
+    "term.md",
+    "IZP/exams/midterm.md",
+    "IZP/lectures/8d. Dynamic memory.md",
     "IZP/lectures/8b. Algoritmy pro práci s vektory a s maticemi.md",
     "IZP/lectures/2b - řídící struktury v programování.md",
-    "term.md",
     "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
     "IZP/lectures/1 - Vývojové nástroje.md",
-    "index.md",
     "attachments/Pasted image 20250107192217.png",
     "attachments/Pasted image 20250107190512.png",
     "attachments/Pasted image 20250107184909.png",
@@ -219,7 +219,6 @@
     "IEL/lectures/8. Unipolární tranzistory.md",
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
     "IEL/lectures/5. Polovodiče.md",
-    "IEL/lectures/3. Kondenzátory a cívky.md",
     "IDM/exam_prep/exams/Idm-24-1b.pdf.part",
     "IDM/exam_prep/exams/Idm-24-2b.pdf.part",
     "IDM/exam_prep/exams/Idm-23-r.pdf.part",
