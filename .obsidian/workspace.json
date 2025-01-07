@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IZP/lectures/5 - Testování a ladění.md",
+                "file": "IZP/IZP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Testování a ladění"
+              "title": "IZP"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "term"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "term.md",
+                "file": "IZP/IZP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from term"
+              "title": "Outgoing links from IZP"
             }
           },
           {
@@ -182,23 +181,30 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e80962f2c79ebc86",
+  "active": "c6d9417c7bc72a03",
   "lastOpenFiles": [
-    "IZP/lectures/5 - Testování a ladění.md",
+    "IZP/lectures/8d. Dynamic memory.md",
+    "IZP/IZP.md",
+    "IZP/lectures/8b. Algoritmy pro práci s vektory a s maticemi.md",
+    "IZP/lectures/2b - řídící struktury v programování.md",
     "term.md",
+    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
+    "IZP/lectures/1 - Vývojové nástroje.md",
+    "index.md",
+    "attachments/Pasted image 20250107192217.png",
+    "attachments/Pasted image 20250107190512.png",
+    "attachments/Pasted image 20250107184909.png",
+    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
+    "IZP/lectures/5 - Testování a ladění.md",
+    "attachments/Pasted image 20250107182626.png",
+    "IZP/lectures/11 - Dynamické datové struktury.md",
     "IZP/lectures/attachments/0_pK2-pSUoAnIR_Eg7.png",
     "IZP/lectures/10 - Rekurze.md",
-    "IZP/IZP.md",
-    "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
     "IZP/lectures/4 - pole.md",
     "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
     "IZP/lectures/2c - řídící struktury v programování.md",
-    "IZP/lectures/2b - řídící struktury v programování.md",
-    "IZP/lectures/2. Principy vyšších programovacích jazyků.md",
-    "IZP/lectures/1 - Vývojové nástroje.md",
     "IZP/exams/Opakování IZP.md",
     "IZP/lectures/12 - Modulární stavba programů.md",
-    "index.md",
     "IEL/IEL.md",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
     "IEL/Zkouška IEL.md",
@@ -208,18 +214,12 @@
     "IEL/lectures/6. Tranzistory.md",
     "attachments/Pasted image 20250106013424.png",
     "attachments/Pasted image 20250106012953.png",
-    "attachments/Pasted image 20250106012937.png",
-    "attachments/Pasted image 20250106012910.png",
     "IEL/lectures/9. Střídavý proud.md",
     "IEL/lectures/10. Operační zesilovače.md",
     "IEL/lectures/8. Unipolární tranzistory.md",
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
-    "attachments/Pasted image 20250106002203.png",
-    "attachments/Pasted image 20250106002151.png",
     "IEL/lectures/5. Polovodiče.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
-    "IEL/Info.md",
-    "IDM/IDM.md",
     "IDM/exam_prep/exams/Idm-24-1b.pdf.part",
     "IDM/exam_prep/exams/Idm-24-2b.pdf.part",
     "IDM/exam_prep/exams/Idm-23-r.pdf.part",

@@ -399,6 +399,24 @@ fscanf(ptr, "%d", &a);
 ```c
 fprintf(ptr, "hello %d", &a);
 ```
+
+## Vrácení hodnoty v return
+- můžeme returnout true nebo false takto
+```c
+return a == 1 && b == 2;
+```
+
+
+## Dělení
+- POZOR DĚLENÍ INTEGERU INTEGEREM VZNIKÁ **INTEGER**
+```c
+  int a = 10;
+  int b = 3;
+  printf("hello: %d\n", (a / b)); // 3
+
+```
+- v tomto příkladu výjde 3 
+- Pokud chceme dělit, tak alespoň jedno z čísel **musí být double nebo float**
 # Teorie
 
 ## Bugy
@@ -462,3 +480,88 @@ Jak jsou bity zakódované, co znamenají ty 1 a 0
 		- printy
 	- **interaktivní** 
 		- debugger
+
+### Jednotkové testy
+![[Pasted image 20250107182626.png]]
+
+
+## Druhy hledání
+#### 1) Sekvenční
+- hledáme položku po položce od začátu po konec
+#### 2) Nesekvenční
+- binary search
+	- **MUSÍ BÝT SEŘAZENÉ**
+	- pouze na hledání porovnatelných klíčů (čísla)
+	- Jdu přesně do půlky, porovnám sousedy, podle toho jaký je vyšší. Jdu do té půlky, tam vyberu prostřední prvek a opakuji
+		- ![[Pasted image 20250107184909.png]]
+
+## Řazení (sorting)
+#### 1) sekvenční řazení
+- např.: linked list nemůžeme přímo přístupovat
+- musíme projet vždy celý list položka po položce
+- Definice:
+	- je vlastnost, která vyjadřuje, že řadící algoritmus pracuje se vstupními údaji i s datovými meziprodukty v tom pořadí v jakém jsou lineárně uspořádány v datové struktuře
+#### 2) nesekvenční
+- např. pole
+- **přímý přístup** k jednotlivým položkám
+- prostě když je jít na index 69, tak bez problému můžeme
+
+### Vlastnosti metod řazení
+- **přírozenost**
+	- čas T(seřazená) < T(náhodně uspořádaná) < T(opačně uspořádaná)
+- **stabilita**
+	- když máme více identických klíčů, algoritmus zachová jejich pořadí (a nepřehazuje je)
+- **in situ**
+	- pracujeme rovnou tam, kde se ta data nachází. *Nekopírujeme je*
+	- metoda pracuje přímo v místě uložení řazených dat
+- **složitost**
+	- je prostorová a časová
+		- kolik místa potřebujeme, jak dlouho to bude trvat
+### Bubble sort
+![[Pasted image 20250107190512.png]]
+### Selection sort
+![[Pasted image 20250107192217.png]]
+## Rekurze
+- Způsob specifikace entity odkazem na sebe sama
+##### Faktoriál:
+```c
+unsigned int fact(unsigned int n)
+{
+	if (n == 0)
+		return 1;
+	else
+		return n*fact(n-1);
+}
+```
+##### Fibonacci sequence
+```c
+int fibo (int n)
+{
+	if ((n == 0) || (n == 1)) return n;
+	else return fibo(n-1) + fibo(n-2);
+}
+```
+### How it works
+Příklad jak to funguje
+```c
+void tisk(int n)
+{
+	if (n > 1) tisk(n-1);
+	printf("%d ", n);
+	return;
+}
+// 1 2 3 . . . . n
+```
+- tato funkce tiskne od konce
+- **u volání tisk(n-1) se zopakuje a prinf se provede až když if není true**
+Stejný příklad, ale tiskne naopak
+```c
+void tisk(int n)
+{
+	printf("%d ", n);
+	if (n > 1) tisk(n-1);
+	return;
+}
+// n . . . 4 3 2 1
+```
+- printf se provede pokaždé a až pak se znovu volá funkce tisk(n-1)
