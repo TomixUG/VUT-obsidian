@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,6 +186,8 @@
   "lastOpenFiles": [
     "IZP/lectures/5 - Testování a ladění.md",
     "term.md",
+    "IZP/lectures/attachments/0_pK2-pSUoAnIR_Eg7.png",
+    "IZP/lectures/10 - Rekurze.md",
     "IZP/IZP.md",
     "IZP/lectures/4b - Výčtový typ, strukturované datové typy.md",
     "IZP/lectures/4 - pole.md",
@@ -213,13 +216,10 @@
     "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
     "attachments/Pasted image 20250106002203.png",
     "attachments/Pasted image 20250106002151.png",
-    "attachments/Pasted image 20250106002110.png",
     "IEL/lectures/5. Polovodiče.md",
     "IEL/lectures/3. Kondenzátory a cívky.md",
     "IEL/Info.md",
     "IDM/IDM.md",
-    "IDM/lectures/6. Relace.md",
-    "IDM/lectures/IDM Opakování na zkoušku.md",
     "IDM/exam_prep/exams/Idm-24-1b.pdf.part",
     "IDM/exam_prep/exams/Idm-24-2b.pdf.part",
     "IDM/exam_prep/exams/Idm-23-r.pdf.part",

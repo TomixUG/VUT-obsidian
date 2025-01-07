@@ -370,7 +370,35 @@ int main() {
 Data *d = malloc(sizeof(Data));
 ```
 
+## Práce s textem
+Jednoduché uvozovky
+- **JEDEN ZNAK**
+Dvě uvozovky
+- **string** (slovo)
+#### Knihovna <string.h>
+**strcmp** 
+- Porovnání stringů
+- pokud se rovnají funkce vrátí jedničku
+```c
+if(strcmp(argv[1]) == "open"){
+	printf("strings match");
+}
+```
 
+## Práce se soubory
+```c
+// open the file
+FILE *ptr = fopen("FILEOPEN.txt", "r");
+```
+- Čtení ze souboru
+```c
+int a;
+fscanf(ptr, "%d", &a);
+```
+- Psaní do souboru
+```c
+fprintf(ptr, "hello %d", &a);
+```
 # Teorie
 
 ## Bugy

@@ -21,7 +21,7 @@ Moodle: https://moodle.vut.cz/course/view.php?id=280953&section=2#module-451478
 - [[8d. Dynamic memory]]
 - [[9. Řazení]]
 - [[9b. Ladění programů]]
-- [[10a - Rekurze]]
+- [[10 - Rekurze]]
 - [[11 - Dynamické datové struktury]]
 -  [[12 - Modulární stavba programů]]
 
