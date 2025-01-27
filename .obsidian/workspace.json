@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "feffb5eaf71f797f",
+        "id": "d15a6e159ccecb26",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d9417c7bc72a03",
+            "id": "e49ad85157f6048d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "term"
-            }
-          },
-          {
-            "id": "e80962f2c79ebc86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
             }
           }
         ]
@@ -180,11 +166,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c6d9417c7bc72a03",
+  "active": "e49ad85157f6048d",
   "lastOpenFiles": [
-    "index.md",
     "IZP/IZP.md",
+    "index.md",
+    "IEL/lectures/8. Unipolární tranzistory.md",
+    "IEL/IEL.md",
+    "IEL/Zkouška IEL.md",
+    "IEL/lectures/5. Polovodiče.md",
+    "IEL/lectures/12. Číslicová elektronika.md",
+    "IEL/lectures/11b. Kmitající obvody.md",
+    "IEL/lectures/11. Zdroje obvodů.md",
+    "IEL/lectures/10. Operační zesilovače.md",
+    "IEL/lectures/9. Střídavý proud.md",
+    "IEL/lectures/6. Tranzistory.md",
+    "IEL/lectures/3. Kondenzátory a cívky.md",
+    "IEL/lectures/2. Měření elektrických veličin.md",
+    "IEL/lectures/1. Základní pojmy a veličiny v el. obvodech.md",
+    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
     "term.md",
+    "attachments/Screenshot_20250108-011020.png",
     "IZP/exams/midterm.md",
     "IZP/lectures/8d. Dynamic memory.md",
     "IZP/lectures/8b. Algoritmy pro práci s vektory a s maticemi.md",
@@ -199,26 +200,11 @@
     "attachments/Pasted image 20250107182626.png",
     "IZP/lectures/11 - Dynamické datové struktury.md",
     "IZP/lectures/attachments/0_pK2-pSUoAnIR_Eg7.png",
-    "IZP/lectures/10 - Rekurze.md",
-    "IZP/lectures/4 - pole.md",
-    "IZP/lectures/3 - Typ ukazatel, strukturované datové typy, memory.md",
-    "IZP/lectures/2c - řídící struktury v programování.md",
-    "IZP/exams/Opakování IZP.md",
-    "IZP/lectures/12 - Modulární stavba programů.md",
-    "IEL/IEL.md",
     "IZP/lectures/attachments/8s_strukturovane-datove-typy.pdf",
-    "IEL/Zkouška IEL.md",
     "attachments/Pasted image 20250106014829.png",
     "attachments/Pasted image 20250106014711.png",
     "attachments/Pasted image 20250106014505.png",
-    "IEL/lectures/6. Tranzistory.md",
     "attachments/Pasted image 20250106013424.png",
-    "attachments/Pasted image 20250106012953.png",
-    "IEL/lectures/9. Střídavý proud.md",
-    "IEL/lectures/10. Operační zesilovače.md",
-    "IEL/lectures/8. Unipolární tranzistory.md",
-    "IEL/lectures/4. Přechodové jevy na RC, RL, RLC a vedení.md",
-    "IEL/lectures/5. Polovodiče.md",
     "IDM/exam_prep/exams/Idm-24-1b.pdf.part",
     "IDM/exam_prep/exams/Idm-24-2b.pdf.part",
     "IDM/exam_prep/exams/Idm-23-r.pdf.part",

@@ -385,6 +385,17 @@ if(strcmp(argv[1], "open") == 0){
 }
 ```
 
+#### Iterace každým znakem stringu
+```c
+  char *str = "hello";
+
+  for (int i = 0; str[i] != '\0'; i++) {
+	// every character here: str[i]
+    printf("%c\n", str[i]);
+  }
+
+```
+
 ## Práce se soubory
 ```c
 // open the file
@@ -494,7 +505,7 @@ Jak jsou bity zakódované, co znamenají ty 1 a 0
 	- pouze na hledání porovnatelných klíčů (čísla)
 	- Jdu přesně do půlky, porovnám sousedy, podle toho jaký je vyšší. Jdu do té půlky, tam vyberu prostřední prvek a opakuji
 		- ![[Pasted image 20250107184909.png]]
-
+![[Screenshot_20250108-011020.png]]
 ## Řazení (sorting)
 #### 1) sekvenční řazení
 - např.: linked list nemůžeme přímo přístupovat
