@@ -11,28 +11,27 @@
             "id": "5e932b55f71058fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2nd semester/IVS/IVS.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IVS"
             }
           },
           {
             "id": "c33eaa340fd9bcb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "term.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "term"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "term.md",
+            "file": "IZP/IZP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,14 +160,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c33eaa340fd9bcb7",
+  "active": "5e932b55f71058fb",
   "lastOpenFiles": [
-    "IZP/IZP.md",
+    "2nd semester/IVS/Lectures/1. Pravidla pro psaní udržovatelného kódu.md",
+    "2nd semester/IVS/IVS.md",
+    "2nd semester/IVS/Info.md",
     "index.md",
+    "2nd semester/INC/INC.md",
+    "2nd semester/INC/Lectures/1. Úvod.md",
+    "tmp/attachments/Pasted image 20241111114313.png",
+    "tmp/attachments/Pasted image 20241104172151.png",
+    "tmp/attachments/Pasted image 20241029150457.png",
+    "tmp/attachments/Pasted image 20241104174957.png",
+    "tmp/attachments/Pasted image 20241104173544.png",
+    "tmp/attachments/Pasted image 20241029141617.png",
+    "tmp/attachments/Pasted image 20250106014505.png",
+    "tmp/attachments/Pasted image 20241202153337.png",
+    "tmp/attachments/Pasted image 20241111114321.png",
+    "tmp/attachments/Pasted image 20241104182435.png",
+    "tmp/attachments",
+    "2nd semester/IVS/Lectures/attachments",
+    "2nd semester/ISU/lectures/1. Úvod, číselné soustavy, reprezentace čísel, binární aritmetika.md",
+    "2nd semester/ISU/lectures/attachments",
+    "2nd semester/INC/Lectures/attachments",
+    "2nd semester/IVS/Lectures",
+    "2nd semester/ISU/Info.md",
+    "2nd semester/ISU/ISU.md",
+    "2nd semester/ISU/practice",
+    "2nd semester/ISU/lectures",
+    "2nd semester/INC/Info.md",
+    "2nd semester/INC/attachments",
+    "2nd semester/INC/Seminar",
+    "2nd semester/INC/Lectures",
+    "IZP/IZP.md",
+    "term.md",
     "IEL/IEL.md",
     "IEL/Zkouška IEL.md",
-    "term.md",
-    "attachments/Screenshot_20250108-011020.png",
     "IZP/lectures/11 - Dynamické datové struktury.md",
     "IZP/lectures/10 - Rekurze.md",
     "IZP/lectures/6 - Rekurentní problémy.md",
@@ -176,39 +203,10 @@
     "IZP/lectures/12 - Modulární stavba programů.md",
     "IZP/lectures/9b. Ladění programů.md",
     "IZP/lectures/9. Řazení.md",
-    "IZP/lectures/attachments/0_pK2-pSUoAnIR_Eg7.png",
     "IZP/lectures/8d. Dynamic memory.md",
     "IZP/lectures/8c. Algoritmy pro vyhledávání a řazení.md",
     "IZP/lectures/8. Algoritmy pro numerické výpočty.md",
     "IEL/lectures/10. Operační zesilovače.md",
-    "Zkouška IEL.md",
-    "IEL/lectures/2. Měření elektrických veličin.md",
-    "IEL/lectures/8. Unipolární tranzistory.md",
-    "IEL/lectures/6. Tranzistory.md",
-    "IDM/IDM.md",
-    "IDM/lectures/IDM Opakování na zkoušku.md",
-    "IDM/lectures/6. Relace.md",
-    "IDM/lectures/Grafy.md",
-    "IDM/lectures/Operace.md",
-    "IUS/attachments/Pasted image 20241231221357.png",
-    "Svazy.md",
-    "IDM/exam_prep/exams/Idm-23-r.pdf",
-    "IDM/lectures/attachments/Pasted image 20241231143612.png",
-    "IDM/lectures/attachments/Pasted image 20241230220722.png",
-    "IDM/lectures/attachments/Pasted image 20241226143516.png",
-    "IDM/exam_prep/exams/Idm-24-1b.pdf",
-    "IDM/lectures/attachments/Pasted image 20241231210355.png",
-    "IDM/lectures/attachments/Pasted image 20241230003123.png",
-    "IDM/lectures/attachments/Pasted image 20241230003131.png",
-    "IDM/lectures/attachments/Pasted image 20241230220717.png",
-    "IDM/exam_prep/exams/Idm-23-q.pdf",
-    "IDM/exam_prep/exams/Idm-24-2b.pdf",
-    "IDM/exam_prep/exams/Idm-24-30.1.pdf",
-    "IUS/attachments/IUS04.pdf",
-    "IDM/exam_prep/04_sada.pdf",
-    "IDM/exam_prep/07_sada.pdf",
-    "IDM/exam_prep/02_sada.pdf",
-    "IDM/exam_prep/05_sada.pdf",
     "Untitled.canvas"
   ]
 }
