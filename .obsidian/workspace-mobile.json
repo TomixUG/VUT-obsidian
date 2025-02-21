@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd semester/IVS/IVS.md",
+                "file": "2nd semester/ITY/Lectures/1. Typografie a publikování.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IVS"
+              "title": "1. Typografie a publikování"
             }
           },
           {
@@ -162,10 +162,12 @@
   },
   "active": "5e932b55f71058fb",
   "lastOpenFiles": [
-    "2nd semester/IVS/Lectures/1. Pravidla pro psaní udržovatelného kódu.md",
-    "2nd semester/IVS/IVS.md",
-    "2nd semester/IVS/Info.md",
+    "2nd semester/ITY/ITY.md",
     "index.md",
+    "2nd semester/ITY/Lectures/1. Typografie a publikování.md",
+    "2nd semester/IVS/IVS.md",
+    "2nd semester/IVS/Lectures/1. Pravidla pro psaní udržovatelného kódu.md",
+    "2nd semester/IVS/Info.md",
     "2nd semester/INC/INC.md",
     "2nd semester/INC/Lectures/1. Úvod.md",
     "tmp/attachments/Pasted image 20241111114313.png",
@@ -206,7 +208,6 @@
     "IZP/lectures/8d. Dynamic memory.md",
     "IZP/lectures/8c. Algoritmy pro vyhledávání a řazení.md",
     "IZP/lectures/8. Algoritmy pro numerické výpočty.md",
-    "IEL/lectures/10. Operační zesilovače.md",
     "Untitled.canvas"
   ]
 }

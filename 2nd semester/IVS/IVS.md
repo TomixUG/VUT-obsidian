@@ -7,4 +7,5 @@ Moodle: https://moodle.vut.cz/course/view.php?id=281098
 
 ## Přednášky
 - [[1. Pravidla pro psaní udržovatelného kódu]]
+- [[2. Testování SW]]
 
